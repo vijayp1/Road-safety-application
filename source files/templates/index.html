@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+	<style>
+		body{
+			margin:0;
+			padding:0;
+			background-size:cover;
+			font-family:sans-serif;
+			background-repeat:no-repeat;
+		}
+
+		.avatar{
+			width:100px;
+			height:100px;
+			border-radius:50%;
+			position:absolute;
+			top:-10%;
+			left:35%;
+		}
+		.loginbox{
+			width:320px;
+			height:420px;
+			background:#000;
+			color:#fff;
+			top:50%;
+			left:50%;
+			position:absolute;
+			transform:translate(-50%,-50%);
+			box-sizing:border-box;
+			padding:70px 30px ;
+		}
+
+		.loginbox p{
+			margin:0;
+			padding:0;
+			font-weight:bold;
+		}
+		.loginbox input{
+			width:100%;
+			margin-bottom:20px;
+		}
+		.loginbox input[type="text"],input[type="password"]
+		{
+			border:none;
+			border-bottom:1px solid #fff;
+			background:transparent;
+			outline:none;
+			height:40px;
+			color:#fff;
+			font-size:16px;
+		}
+		.loginbox button
+		{
+			border:none;
+			outline:none;
+			height:40px;
+			width:250px;
+			background:#fb2525;
+			color:#fff;
+			font-size:18px;
+			border-radius:20px;
+		}
+		.loginbox button:hover
+		{
+			cursor:pointer;
+			background:#ffc107;
+			color:#000;
+		}
+		.loginbox a{
+			text-decoration:none;
+			font-size:12px;
+			line-height:20px;
+			color:darkgrey;
+		}
+		.loginbox a:hover
+		{
+			color:#ffc107;
+		}
+	</style>
+	
+</head>
+<body>
+		<img style="width:100%;height:720px" src="{{url_for('static', filename='backgroundimg.jpg')}}"/>
+		
+		<form method="POST" action="/log">
+			<div class="loginbox">
+				<img src="{{url_for('static', filename='avatar.png')}}" class="avatar" />
+				
+				<h1>Login Here</h1>
+					<p>Username</p>
+					<input type="text" name="username" placeholder="Enter username"/><br>
+					<p>Password</p>
+					<input type="password" name="password" placeholder="Enter Password"/>
+					<input type="submit" value="submit"/><br>
+					
+					<a href='forgotpass'>Forgot password?</a><br>
+					<a href="signup">Create New account?</a>
+			</div>
+		</form>
+		{%if msg=="created"%}
+			<script type="text/javascript" language="JavaScript">alert("successfully created new profile!")</script>
+		{%endif%}
+		{%if msg=="changed"%}
+			<script type="text/javascript" language="JavaScript">alert("password changed successfully!")</script>
+		{%endif%}
+		{%if msg=="incomplete"%}
+			<script type="text/javascript" language="JavaScript">alert("incomplete details!")</script>
+		{%endif%}
+		{%if msg=="incorrect"%}
+			<script type="text/javascript" language="JavaScript">alert("incorrect credentials!")</script>
+		{%endif%}
+		{%if msg=="out"%}
+			<script type="text/javascript" language="JavaScript">alert("session logged out!")</script>
+		{%endif%}
+		
+</body>
+</html>

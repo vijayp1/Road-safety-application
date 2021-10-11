@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head><title>home</title></head>
+<style>
+	.dropbtn {
+		  background-color: blue;
+		  color: white;
+		  padding: 16px;
+		  font-size: 16px;
+		  border: none;
+		}
+
+		.dropdown {
+		  position: absolute;
+		  display: inline-block;
+		}
+
+		.dropdown-content {
+		  display: none;
+		  position: absolute;
+		  background-color: #f1f1f1;
+		  min-width: 93px;
+		  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+		  z-index: 1;
+		}
+		.bgi{
+			margin:0;
+			padding:0;
+			filter:blur(50px);
+			width:100%;
+			height:100%;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+		}
+		.dropdown-content a {
+		  color: black;
+		  padding: 12px 20px;
+		  text-decoration: none;
+		  display: block;
+		}
+
+		.dropdown-content a:hover {background-color: #ddd;}
+		.dropdown:hover .dropdown-content {display: block;}
+		.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+		.tr .dropdown{
+			top:0%;
+		}
+		.ac .dropdown{
+			top:0%;
+			left:6%;
+		}
+		.pr .dropdown{
+			top:0%;
+			left:92%;
+		}
+		.bar{
+			width:1735px;
+			height:90px;
+			background:black;
+			color:#fff;
+			top:0%;
+			left:45%;
+			position:absolute;
+			transform:translate(-50%,-50%);
+			box-sizing:border-box;
+			padding:70px 30px ;
+		}
+	.feedback{
+		width:920px;
+		height:620px;
+		background:transparent;
+		color:#fff;
+		top:60%;
+		left:50%;
+		position:absolute;
+		transform:translate(-50%,-50%);
+		padding:70px 30px ;
+	}
+</style>
+<body>
+	<img style="width:100%;height:720px" src="{{url_for('static', filename='backgroundimg.jpg')}}" class="bgi"/>
+	
+	<form method="POST" action="/feedback">
+		<div class="feedback">
+			<p style="color:black;font-size:35px;text-align:center;">REPORT AN ISSUE</p>
+			<textarea type="text" id="desc" name="desc" cols="50" rows="10" placeholder="Enter PROBLEM DESCRIPTION" style="width:800px;height:300px;"></textarea>
+			<input type="submit" style="heigth:200px;width:300px;"></input>
+			
+		</div>
+	</form>
+	<div class="bar"></div>
+	{% if logtype!='doctor' %}
+		<div class="tr">
+			<div class="dropdown">
+				<button class="dropbtn">Traffic</button>
+				<div class="dropdown-content">
+					{%if logtype=='normal'%}
+						<a href="{{url_for('reporttr')}}">Reports</a>
+						<a href="{{url_for('viewtr')}}">view reports</a>
+					{% endif %}
+					{% if logtype == 'police' %}
+						<a href="{{url_for('edittr')}}">view reports</a>
+					{% endif %}
+				</div>
+			</div>
+		</div>
+	{% endif %}
+		<br></br>
+	{% if logtype!='police' %}
+		<div class="ac">
+			<div class="dropdown">
+				<button class="dropbtn">Accident</button>
+				<div class="dropdown-content">
+					{% if logtype=='normal' %}
+						<a href="{{url_for('reportac')}}">Report</a>
+						<a href="{{url_for('accview')}}">view</a>
+					{% endif %}
+					{% if logtype=='doctor' %}
+						<a href="{{url_for('viewac')}}">view accidents</a>
+					{%endif%}
+				</div>
+			</div>
+		</div>
+	{% endif %}
+		<div class="pr">
+			<div class="dropdown">
+				<button class="dropbtn">profile</button>
+				<div class="dropdown-content">
+					<a href="{{url_for('home')}}">Home page</a>
+					<a href="{{url_for('settings')}}">Settings</a>
+					<a href="{{url_for('signout')}}">Sign out</a>
+				</div>
+			</div>
+		</div>
+		{%if msg=="incomplete"%}
+			<script type="text/javascript" language="JavaScript">alert("incomplete details!")</script>
+		{%endif%}
+		{%if msg=="submitted"%}
+			<script type="text/javascript" language="JavaScript">alert("successfully submitted!")</script>
+		{%endif%}
+		{%if msg=="in"%}
+			<script type="text/javascript" language="JavaScript">alert("successfully signed in!")</script>
+		{%endif%}
+		{%if msg=="changed"%}
+			<script type="text/javascript" language="JavaScript">alert("password changed succesfully!")</script>
+		{%endif%}
+		{%if msg=="assigned"%}
+			<script type="text/javascript" language="JavaScript">alert("accident assigned to you!")</script>
+		{%endif%}
+		{%if msg=="waypoint"%}
+			<script type="text/javascript" language="JavaScript">alert("waypoint sent to mail!")</script>
+		{%endif%}
+		{%if msg=="cantidentify"%}
+			<script type="text/javascript" language="JavaScript">alert("unable to detect your location!")</script>
+		{%endif%}
+</body>
+</html>

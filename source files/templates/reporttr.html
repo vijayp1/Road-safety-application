@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Event Click LatLng</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <style>
+	#map{
+    height: 100%;
+	width: 75%;
+	}  
+	#detail{
+		left:75%;
+	}
+	html,body {
+		height: 100%;
+		margin: 0;
+		padding: 0;
+	}
+	.loginbox{
+		width:380px;
+		height:710px;
+		color:white;
+		top:51.5%;
+		left:87.5%;
+		position:absolute;
+		transform:translate(-50%,-50%);
+		box-sizing:border-box;
+		padding:70px 30px ;
+	}
+	.dropbtn {
+	  background-color: blue;
+	  color: white;
+	  padding: 16px;
+	  font-size: 16px;
+	  border: none;
+	}
+
+	.dropbtn {
+	  background-color: blue;
+	  color: white;
+	  padding: 16px;
+	  font-size: 16px;
+	  border: none;
+	}
+
+	.dropdown {
+	  position: absolute;
+	  display: inline-block;
+	}
+
+	.dropdown-content {
+	  display: none;
+	  position: absolute;
+	  background-color: #f1f1f1;
+	  min-width: 93px;
+	  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	  z-index: 1;
+	}
+	.bgi{
+		margin:0;
+		padding:0;
+		background:url(backgroundimg.jpg);
+		filter:blur(50px);
+		width:100%;
+		height:100%;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
+	.dropdown-content a {
+	  color: black;
+	  padding: 12px 20px;
+	  text-decoration: none;
+	  display: block;
+	}
+
+	.dropdown-content a:hover {background-color: #ddd;}
+	.dropdown:hover .dropdown-content {display: block;}
+	.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+	.tr .dropdown{
+		top:0%;
+	}
+	.ac .dropdown{
+		top:0%;
+		left:6%;
+	}
+	.pr .dropdown{
+		top:0%;
+		left:92%;
+	}
+	.bar{
+		width:1735px;
+		height:90px;
+		background:black;
+		color:#fff;
+		top:0%;
+		left:45%;
+		position:absolute;
+		transform:translate(-50%,-50%);
+		box-sizing:border-box;
+		padding:70px 30px ;
+	}
+	</style>
+    <script>
+      function initMap() {
+        const myLatlng = { lat: {{lati}}, lng: {{longi}} };
+        const map = new google.maps.Map(document.getElementById("map"), {
+          zoom: 17,
+          center: myLatlng,
+        });
+        // Create the initial InfoWindow.
+        let infoWindow = new google.maps.InfoWindow({
+          content: "Click the map to get Lat/Lng!",
+          position: myLatlng,
+        });
+        infoWindow.open(map);
+        // Configure the click listener.
+        map.addListener("click", (mapsMouseEvent) => {
+          // Close the current InfoWindow.
+          infoWindow.close();
+          // Create a new InfoWindow.
+          infoWindow = new google.maps.InfoWindow({
+            position: mapsMouseEvent.latLng,
+			
+          });
+		  
+		  
+          infoWindow.setContent(
+            JSON.stringify(mapsMouseEvent.latLng.toJSON(), null, 2)
+			
+          );
+		  
+          infoWindow.open(map);
+		  pos=mapsMouseEvent.latLng;
+		  document.getElementById('latlng').value=pos;
+        });
+      }
+	  
+	  
+    </script>
+  </head>
+  <body>
+	
+    <div id="map"></div>
+	<div id="detail">
+	<img src="../static/traffic.jpg" style="width:440px;height:780px;top:55%;" class="loginbox"></img>
+	<form action="/reporttraffic" method="POST">
+		<div class="loginbox">
+			
+			<p style="font-size:24px;">co-ordinates</p>
+			<textarea type="text" id="latlng" name="latlng" cols="50" rows="10"style="width:320px;height:100px;"></textarea>
+			<input type="submit"></input>
+		</div>
+	</form>
+	</div>
+	<div class="bar"></div>
+	{% if logtype!='doctor' %}
+		<div class="tr">
+			<div class="dropdown">
+				<button class="dropbtn">Traffic</button>
+				<div class="dropdown-content">
+					{%if logtype=='normal'%}
+						<a href="{{url_for('reporttr')}}">Reports</a>
+						<a href="{{url_for('viewtr')}}">view reports</a>
+					{% endif %}
+					{% if logtype == 'police' %}
+						<a href="{{url_for('edittr')}}">view reports</a>
+					{% endif %}
+				</div>
+			</div>
+		</div>
+	{% endif %}
+		<br></br>
+	{% if logtype!='police' %}
+		<div class="ac">
+			<div class="dropdown">
+				<button class="dropbtn">Accident</button>
+				<div class="dropdown-content">
+					{% if logtype=='normal' %}
+						<a href="{{url_for('reportac')}}">Report</a>
+						<a href="{{url_for('accview')}}">view</a>
+					{% endif %}
+					{% if logtype=='doctor' %}
+						<a href="{{url_for('viewac')}}">view accidents</a>
+					{%endif%}
+				</div>
+			</div>
+		</div>
+	{% endif %}
+		<div class="pr">
+			<div class="dropdown">
+				<button class="dropbtn">profile</button>
+				<div class="dropdown-content">
+					<a href="{{url_for('home')}}">Home page</a>
+					<a href="{{url_for('settings')}}">Settings</a>
+					<a href="{{url_for('signout')}}">Sign out</a>
+				</div>
+			</div>
+		</div>
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAJnErquawZf_7tZ6nqAVo8L0l57_YA2G4&callback=initMap&libraries=&v=weekly"
+      async
+    ></script>
+		{%if msg=="nolocation"%}
+			<script type="text/javascript" language="JavaScript">alert("location not selected!")</script>
+		{%endif%}
+  </body>
+</html>

@@ -1,0 +1,3868 @@
+{
+    "hospitals": [
+        {
+            "location": "17.4274003, 78.4311174",
+            "hospital": "Care Hospital, Banjara"
+        },
+        {
+            "location": "14.6795736, 77.592469",
+            "hospital": "Aasha Hospitals"
+        },
+        {
+            "location": "14.6818877, 77.6005911",
+            "hospital": "Baby Hospital"
+        },
+        {
+            "location": "14.6723351, 77.6018211",
+            "hospital": "Dr Akbar Eye Hospital And Laser Centre"
+        },
+        {
+            "location": "14.6749908, 77.6032432",
+            "hospital": "Hrudaya Children Hospital"
+        },
+        {
+            "location": "17.4738037, 78.5641765",
+            "hospital": "Jeevana Jyothi Hospitals Ltd.,"
+        },
+        {
+            "location": "14.6818877, 77.6005911",
+            "hospital": "Meda Nursing Home"
+        },
+        {
+            "location": "14.6723351, 77.6018211",
+            "hospital": "Mnr Nursing Home"
+        },
+        {
+            "location": "14.6867872, 77.5832307",
+            "hospital": "Mythri Hospitals"
+        },
+        {
+            "location": "15.3474564, 75.1253824",
+            "hospital": "Padmavathi Hospital"
+        },
+        {
+            "location": "14.6742267, 77.6025251",
+            "hospital": "Pavani Multi Speciality Hospital"
+        },
+        {
+            "location": "14.6818877, 77.6005911",
+            "hospital": "Prasanthi Nursing Home"
+        },
+        {
+            "location": "14.6723351, 77.6018211",
+            "hospital": "Priya Multispeciality Hospital"
+        },
+        {
+            "location": "14.6805847, 77.6000775",
+            "hospital": "Ravitej Nursing Home"
+        },
+        {
+            "location": "13.9860276, 77.7658783",
+            "hospital": "Santhi Nursing Home"
+        },
+        {
+            "location": "14.6818877, 77.6005911",
+            "hospital": "Sri Sai Balaji Hospital"
+        },
+        {
+            "location": "13.6340453, 79.4157431",
+            "hospital": "Sri Sai Kurpa Nursing Home"
+        },
+        {
+            "location": "14.6818877, 77.6005911",
+            "hospital": "Sri Sai Venkateshwara Surgical Clinic"
+        },
+        {
+            "location": "14.9093514, 78.0060388",
+            "hospital": "Sudhir Surgical Clinic"
+        },
+        {
+            "location": "14.6755437, 77.6036802",
+            "hospital": "Suma Eye Clinic"
+        },
+        {
+            "location": "14.6755437, 77.6036802",
+            "hospital": "Swetha Ent Hospital"
+        },
+        {
+            "location": "19.0627033, 72.9297396",
+            "hospital": "Varun Children's Hospital"
+        },
+        {
+            "location": "14.6818877, 77.6005911",
+            "hospital": "Venkat Sai Health Care Pvt Ltd ( Apollo Hospitals)"
+        },
+        {
+            "location": "14.6607456, 77.6085681",
+            "hospital": "Vijaya Nursing Home"
+        },
+        {
+            "location": "13.0433764, 80.1622367",
+            "hospital": "Mamatha Nursing Home"
+        },
+        {
+            "location": "14.6735546, 77.6081894",
+            "hospital": "Anantapuram Praja Vaidyasala"
+        },
+        {
+            "location": "14.6818877, 77.6005911",
+            "hospital": "Balaji Nursing Home"
+        },
+        {
+            "location": "14.6818877, 77.6005911",
+            "hospital": "Dr B V Syamala Ratnam Hospiatal"
+        },
+        {
+            "location": "14.178135, 77.2728241",
+            "hospital": "Girish Multispeciality Hospital"
+        },
+        {
+            "location": "13.8358978, 77.5046101",
+            "hospital": "Shilpa Hospital"
+        },
+        {
+            "location": "13.8185378, 77.4988753",
+            "hospital": "Sreenivasa Nursing Home"
+        },
+        {
+            "location": "13.8371751, 77.4878898",
+            "hospital": "Teja Nursing Home"
+        },
+        {
+            "location": "14.910003, 78.0005407",
+            "hospital": "Sharada Nursing Home and Falvia P Reddy Diagnostic"
+        },
+        {
+            "location": "14.9070274, 78.0092703",
+            "hospital": "Sri Kanchani Hospital"
+        },
+        {
+            "location": "14.4137447, 77.7126189",
+            "hospital": "Devi Nursing Home"
+        },
+        {
+            "location": "14.4068919, 77.7125679",
+            "hospital": "Spandana Hospital"
+        },
+        {
+            "location": "15.1622611, 77.3826845",
+            "hospital": "Preethi Nursing Home"
+        },
+        {
+            "location": "13.217176, 79.1003289",
+            "hospital": "Dr. Ramalakshmi Nursing Home"
+        },
+        {
+            "location": "13.217176, 79.1003289",
+            "hospital": "Dr. V. K. R. Nursing Home and Scan Centre"
+        },
+        {
+            "location": "28.6481837, 77.3709431",
+            "hospital": "Lakshmi Hospital"
+        },
+        {
+            "location": "39.5988355, -77.932359",
+            "hospital": "S.M.Clinic"
+        },
+        {
+            "location": "13.217176, 79.1003289",
+            "hospital": "Sreelatha Modern Eye Hospital And Research Centre"
+        },
+        {
+            "location": "13.65, 78.933333",
+            "hospital": "Sujatha Nursing Home"
+        },
+        {
+            "location": "13.36592, 78.5750141",
+            "hospital": "Balaji Hospital"
+        },
+        {
+            "location": "13.36592, 78.5750141",
+            "hospital": "Vijaya Nursing Home"
+        },
+        {
+            "location": "13.5508703, 78.50597",
+            "hospital": "Balaji Multi Speciality Hospital"
+        },
+        {
+            "location": "13.5603491, 78.5036065",
+            "hospital": "Bhavya Child Care Center"
+        },
+        {
+            "location": "13.5508703, 78.50597",
+            "hospital": "Bhavyas Children Hospital"
+        },
+        {
+            "location": "13.5603491, 78.5036065",
+            "hospital": "Chandra Mohan's Nursing Home"
+        },
+        {
+            "location": "13.5603491, 78.5036065",
+            "hospital": "Desai Hospital"
+        },
+        {
+            "location": "14.4656511, 78.8330438",
+            "hospital": "Desai Hospital-Madanapalli"
+        },
+        {
+            "location": "18.4328566, 79.1303578",
+            "hospital": "Emergency Hospital"
+        },
+        {
+            "location": "13.217176, 79.1003289",
+            "hospital": "Gupta Nursing Home"
+        },
+        {
+            "location": "13.5529488, 78.5086376",
+            "hospital": "Kathasagaram Hospitals"
+        },
+        {
+            "location": "13.217176, 79.1003289",
+            "hospital": "Leo Hospital"
+        },
+        {
+            "location": "13.5657237, 78.5066868",
+            "hospital": "M.V.L Hospital"
+        },
+        {
+            "location": "13.553374, 78.5065719",
+            "hospital": "Madanapalle Hospital Pvt Ltd"
+        },
+        {
+            "location": "30.3145962, 78.0357476",
+            "hospital": "Popular Nursing Home"
+        },
+        {
+            "location": "13.5603491, 78.5036065",
+            "hospital": "Rama Orthopaedic Nursing Home"
+        },
+        {
+            "location": "13.553374, 78.5065719",
+            "hospital": "Shantharam Hospital"
+        },
+        {
+            "location": "14.6818877, 77.6005911",
+            "hospital": "Sri Kaveri Speciality Hospital"
+        },
+        {
+            "location": "13.5603491, 78.5036065",
+            "hospital": "Usha Speciality Hospital"
+        },
+        {
+            "location": "13.5603491, 78.5036065",
+            "hospital": "Viswa Orthopaedic Hospital"
+        },
+        {
+            "location": "12.7279579, 78.3512397",
+            "hospital": "P E S Institute Of Medical Sciences and Research"
+        },
+        {
+            "location": "12.7510218, 78.340196",
+            "hospital": "Rathna Childrens and General Hospital"
+        },
+        {
+            "location": "12.7470314, 78.3330157",
+            "hospital": "Sri Priya Nursing Home"
+        },
+        {
+            "location": "13.6403071, 79.4176391",
+            "hospital": "Apollo Multispeciality Hospital"
+        },
+        {
+            "location": "13.6320156, 79.4260025",
+            "hospital": "Asalatha Medicare Pvt Lt"
+        },
+        {
+            "location": "13.217176, 79.1003289",
+            "hospital": "Balaji Institute Of Surgery Research And Rehabilit"
+        },
+        {
+            "location": "13.6344095, 79.425573",
+            "hospital": "Balaji Orthopaedic And Trauma Hospital"
+        },
+        {
+            "location": "13.6338436, 79.4210045",
+            "hospital": "Bhaskar Allergy and Chest Hospital"
+        },
+        {
+            "location": "13.6338782, 79.4195997",
+            "hospital": "Clinic Nisha"
+        },
+        {
+            "location": "13.6244611, 79.4310052",
+            "hospital": "Dbr And Sk Super Speciality Hospital"
+        },
+        {
+            "location": "13.6287557, 79.4191795",
+            "hospital": "Eye Care Centre and Contact Lens Clinic"
+        },
+        {
+            "location": "13.6361446, 79.4204532",
+            "hospital": "Harshitha Hospital"
+        },
+        {
+            "location": "13.6781837, 79.352188",
+            "hospital": "M S Hospital"
+        },
+        {
+            "location": "13.6287557, 79.4191795",
+            "hospital": "M.M Hospital"
+        },
+        {
+            "location": "13.6302513, 79.4118237",
+            "hospital": "Manohari Nursing Home"
+        },
+        {
+            "location": "13.6287557, 79.4191795",
+            "hospital": "Meghana Hospital"
+        },
+        {
+            "location": "13.217176, 79.1003289",
+            "hospital": "Navya Netralaya Eye Hospital"
+        },
+        {
+            "location": "13.6390013, 79.4272041",
+            "hospital": "Neelima Maternity Nursing Home"
+        },
+        {
+            "location": "13.6287557, 79.4191795",
+            "hospital": "Nirmala Hospitals"
+        },
+        {
+            "location": "13.6361446, 79.4204532",
+            "hospital": "Om Children Surgical Superspeciality Centre"
+        },
+        {
+            "location": "13.6287557, 79.4191795",
+            "hospital": "Prameela Hospital"
+        },
+        {
+            "location": "13.6338436, 79.4210045",
+            "hospital": "Prashanth Hospital"
+        },
+        {
+            "location": "13.6244611, 79.4310052",
+            "hospital": "Raghavendra Urological Super Speciality Hospital (Russh Hospital)"
+        },
+        {
+            "location": "13.6361446, 79.4204532",
+            "hospital": "Rama Nursing Home"
+        },
+        {
+            "location": "13.6365271, 79.4127143",
+            "hospital": "Ramya Hospital"
+        },
+        {
+            "location": "13.6287557, 79.4191795",
+            "hospital": "Ravi Neuro and Emergency Hospital - Chittoor"
+        },
+        {
+            "location": "13.6361446, 79.4204532",
+            "hospital": "Sakthi Medicals"
+        },
+        {
+            "location": "13.6368739, 79.4144319",
+            "hospital": "Shyamala Nursing Home"
+        },
+        {
+            "location": "13.6157076, 79.4125828",
+            "hospital": "Sree Emergency and Crticial Care Hospital"
+        },
+        {
+            "location": "13.6361446, 79.4204532",
+            "hospital": "Sri Chakra Hospitals"
+        },
+        {
+            "location": "23.0866456, 72.5630236",
+            "hospital": "Sri Padmavathi Multi Speciality Hospital"
+        },
+        {
+            "location": "13.6388217, 79.4204627",
+            "hospital": "Sri Ramadevi Multi Super Speciality Hospital"
+        },
+        {
+            "location": "13.6361446, 79.4204532",
+            "hospital": "Sri Sai Sudha Hospitals"
+        },
+        {
+            "location": "13.217176, 79.1003289",
+            "hospital": "Sri Suraksha Hospital"
+        },
+        {
+            "location": "13.217176, 79.1003289",
+            "hospital": "Sri Venkata Sai Hrudayalaya (The Heart Care Centre) - Tirupati"
+        },
+        {
+            "location": "13.6287557, 79.4191795",
+            "hospital": "Sri Venkateshwara Institute Of Medical Sciences"
+        },
+        {
+            "location": "26.896961, 75.792554",
+            "hospital": "Sri Venkateswara Hospitals"
+        },
+        {
+            "location": "13.6287557, 79.4191795",
+            "hospital": "Srinivasa Super Speciality Hospital"
+        },
+        {
+            "location": "13.6361446, 79.4204532",
+            "hospital": "Suguna Nursing Home"
+        },
+        {
+            "location": "13.6095995, 79.4489169",
+            "hospital": "Sviss Hospital"
+        },
+        {
+            "location": "13.6287557, 79.4191795",
+            "hospital": "Swaranamrutha Hospital"
+        },
+        {
+            "location": "13.6361446, 79.4204532",
+            "hospital": "Triveni Child Care Hospital"
+        },
+        {
+            "location": "13.6358027, 79.420805",
+            "hospital": "Venkataramana Heart And Maternity Hospital"
+        },
+        {
+            "location": "13.639101, 79.4177213",
+            "hospital": "Vision Care Clinic"
+        },
+        {
+            "location": "13.6335087, 79.4170539",
+            "hospital": "Elite Hospital"
+        },
+        {
+            "location": "13.217176, 79.1003289",
+            "hospital": "Maha Hospitals"
+        },
+        {
+            "location": "28.6779455, 77.3103012",
+            "hospital": "Vennela Super Speciality Eye and Dental Hospital"
+        },
+        {
+            "location": "13.6452591, 79.419089",
+            "hospital": "Manasa Kidney Foundation"
+        },
+        {
+            "location": "13.6370231, 79.4206271",
+            "hospital": "Rushh Hospital"
+        },
+        {
+            "location": "13.6287557, 79.4191795",
+            "hospital": "Swarna E.N.T Super Speciality Hosptial"
+        },
+        {
+            "location": "13.633255, 79.4552064",
+            "hospital": "Swarnamurtha Hospital"
+        },
+        {
+            "location": "12.7686756, 75.2070644",
+            "hospital": "Sri Sai Nursing Home"
+        },
+        {
+            "location": "13.3200519, 79.585628",
+            "hospital": "C.S.I. Hospital"
+        },
+        {
+            "location": "13.7392101, 79.7119419",
+            "hospital": "Chaitanya Childrens Hospital"
+        },
+        {
+            "location": "13.217176, 79.1003289",
+            "hospital": "Eswari Nursing Home"
+        },
+        {
+            "location": "13.217176, 79.1003289",
+            "hospital": "Sai Kanthi Eye Hospital"
+        },
+        {
+            "location": "22.5657131, 88.3557301",
+            "hospital": "Vani Priya Hospital"
+        },
+        {
+            "location": "14.480391, 78.8340173",
+            "hospital": "Balaji Nursing Home"
+        },
+        {
+            "location": "17.6651796, 75.8970483",
+            "hospital": "Jyothi Nursing Home"
+        },
+        {
+            "location": "19.0266349, 72.8594614",
+            "hospital": "K.C.M. Hospital"
+        },
+        {
+            "location": "14.4701485, 78.8297701",
+            "hospital": "Palla Krishnaiah Memorial And Nursing Home"
+        },
+        {
+            "location": "14.4701485, 78.8297701",
+            "hospital": "Sri Krishna Sahithi Eye Hospital"
+        },
+        {
+            "location": "14.4783864, 78.8252721",
+            "hospital": "Srija Rainbow Childrens Hospital"
+        },
+        {
+            "location": "14.686981, 78.3909238",
+            "hospital": "Tata Reddy Ramalinga Reddy Nursing Home"
+        },
+        {
+            "location": "14.4701485, 78.8297701",
+            "hospital": "Vurimi Savitramma Cardiac Centre"
+        },
+        {
+            "location": "14.480391, 78.8340173",
+            "hospital": "Dr G R K R Multi Speciality Hospitals"
+        },
+        {
+            "location": "18.000695, -76.8938358",
+            "hospital": "Remedy Hospital"
+        },
+        {
+            "location": "13.0311046, 80.2720822",
+            "hospital": "Sri Satya Sai Hospital"
+        },
+        {
+            "location": "17.7266953, 83.3054733",
+            "hospital": "Usha Rani Nursing Home"
+        },
+        {
+            "location": "13.9518505, 79.3492863",
+            "hospital": "Vishnu Nursing Home"
+        },
+        {
+            "location": "14.1965314, 79.1563718",
+            "hospital": "Sree Durgaa Nursing Home"
+        },
+        {
+            "location": "14.2050808, 79.1549173",
+            "hospital": "Sri Sai Nursing Home"
+        },
+        {
+            "location": "14.0585458, 78.7518863",
+            "hospital": "Madhavi Nursing Home"
+        },
+        {
+            "location": "14.7491864, 78.5531577",
+            "hospital": "Abhilash Netra Vidyasala"
+        },
+        {
+            "location": "14.7500333, 78.5478809",
+            "hospital": "B. G. R. Hospital"
+        },
+        {
+            "location": "14.7500333, 78.5478809",
+            "hospital": "Bhavya Nursing Home"
+        },
+        {
+            "location": "14.7491864, 78.5531577",
+            "hospital": "Cnr Nursing Home"
+        },
+        {
+            "location": "14.7528736, 78.5514834",
+            "hospital": "Kalyana Chakravarthy Hospitals - Proddatur"
+        },
+        {
+            "location": "14.7512835, 78.5497493",
+            "hospital": "Kathya Nursing Home"
+        },
+        {
+            "location": "26.1781993, 91.773379",
+            "hospital": "Lakshmi Kishore Hospital"
+        },
+        {
+            "location": "14.7491864, 78.5531577",
+            "hospital": "Orthopaedic And Maternity Hospital"
+        },
+        {
+            "location": "14.7500333, 78.5478809",
+            "hospital": "Shree Veja Nursing Home"
+        },
+        {
+            "location": "14.7500333, 78.5478809",
+            "hospital": "Siva Nursing Home"
+        },
+        {
+            "location": "14.7600159, 78.5393058",
+            "hospital": "Swarup Eye Hospital and Laser Center"
+        },
+        {
+            "location": "14.7491864, 78.5531577",
+            "hospital": "Vaatsalya Hospital"
+        },
+        {
+            "location": "14.7500333, 78.5478809",
+            "hospital": "Vijaya Eye Hospital"
+        },
+        {
+            "location": "14.7528736, 78.5514834",
+            "hospital": "Nikhil Nursing Home"
+        },
+        {
+            "location": "14.686981, 78.3909238",
+            "hospital": "Sree Tati Reddy Ramalinga Reddy Nursing Home"
+        },
+        {
+            "location": "14.6857186, 78.3909785",
+            "hospital": "Sri Thati Reddy Ramalinga Reddy Nursing Home"
+        },
+        {
+            "location": "14.8474197, 78.3899108",
+            "hospital": "Venkata Sai Baradwaja Hospital"
+        },
+        {
+            "location": "32.458567, 74.5000465",
+            "hospital": "7 Star Superspeciality Hospital"
+        },
+        {
+            "location": "17.0769388, 82.1385327",
+            "hospital": "Apollo Samudra Hospitals"
+        },
+        {
+            "location": "16.9890648, 82.2474648",
+            "hospital": "Bharani Hospital"
+        },
+        {
+            "location": "29.5160925, 74.5877445",
+            "hospital": "Care Emergency Hospital"
+        },
+        {
+            "location": "16.9837142, 82.2404611",
+            "hospital": "Christian Cancer Center"
+        },
+        {
+            "location": "16.9482342, 82.2528975",
+            "hospital": "Haritha Hospitals"
+        },
+        {
+            "location": "16.9890648, 82.2474648",
+            "hospital": "Kakinada Nursing Home"
+        },
+        {
+            "location": "17.0769388, 82.1385327",
+            "hospital": "Life Line Emergency Hospital"
+        },
+        {
+            "location": "16.9640729, 82.2329395",
+            "hospital": "Raghava 24 Hrs Emergency Hospital"
+        },
+        {
+            "location": "16.9482342, 82.2528975",
+            "hospital": "Sai Sudha Hospital"
+        },
+        {
+            "location": "16.9558071, 82.2330899",
+            "hospital": "Shravani Ent Hospital"
+        },
+        {
+            "location": "16.954694, 82.2327304",
+            "hospital": "Siddhartha Hospital"
+        },
+        {
+            "location": "16.9890648, 82.2474648",
+            "hospital": "Sri Gowthami Nursing Home"
+        },
+        {
+            "location": "16.9510095, 82.2365598",
+            "hospital": "Sri Lalitha Hospitals Institute Of Lap Surgery And Training"
+        },
+        {
+            "location": "16.9890648, 82.2474648",
+            "hospital": "Sri Srinivasa Orthopaedic Centre and Nursing Home"
+        },
+        {
+            "location": "17.0005383, 81.8040345",
+            "hospital": "Srihitha Children Hospital"
+        },
+        {
+            "location": "16.9639769, 82.2236918",
+            "hospital": "Vijaya Nursing Home"
+        },
+        {
+            "location": "17.0005383, 81.8040345",
+            "hospital": "Vishwanadha Eye and Maternity Hospital"
+        },
+        {
+            "location": "34.1255413, 74.9442585",
+            "hospital": "Bhanu Nursing Home and Eye Hospital"
+        },
+        {
+            "location": "16.9754085, 82.2352397",
+            "hospital": "Mother and Child Hospital"
+        },
+        {
+            "location": "16.9695602, 82.2388249",
+            "hospital": "Nayana Eye Care"
+        },
+        {
+            "location": "16.9506495, 82.2333585",
+            "hospital": "Ramalingeswara Nursing Home"
+        },
+        {
+            "location": "16.9890648, 82.2474648",
+            "hospital": "Saipriya Maternity Hospital"
+        },
+        {
+            "location": "16.9890648, 82.2474648",
+            "hospital": "Kasturi Nursing Home"
+        },
+        {
+            "location": "12.6670587, 79.2782323",
+            "hospital": "Poly Clinic and Hospital"
+        },
+        {
+            "location": "16.9890648, 82.2474648",
+            "hospital": "Ravichandra Hospital"
+        },
+        {
+            "location": "16.9663046, 82.2270885",
+            "hospital": "Sanjivi Orthopaedic Hospital"
+        },
+        {
+            "location": "16.9890648, 82.2474648",
+            "hospital": "Sri Sai Raghavendra Super Specialities Hospital"
+        },
+        {
+            "location": "16.9890648, 82.2474648",
+            "hospital": "Sri Venkata Chalapathi Nursing Home"
+        },
+        {
+            "location": "16.9890648, 82.2474648",
+            "hospital": "Sri Venugopal Hospital"
+        },
+        {
+            "location": "16.9663046, 82.2270885",
+            "hospital": "Sudha Urology And Andrology Hospital"
+        },
+        {
+            "location": "16.9607952, 82.2282795",
+            "hospital": "Surya Global Hospitals"
+        },
+        {
+            "location": "16.9663046, 82.2270885",
+            "hospital": "Vasan Eye Care Hospital"
+        },
+        {
+            "location": "16.9890648, 82.2474648",
+            "hospital": "Srikiran Institute Of Ophthalmology"
+        },
+        {
+            "location": "16.9967552, 82.2569717",
+            "hospital": "Sushrutha Hospital"
+        },
+        {
+            "location": "16.9523477, 82.1305609",
+            "hospital": "Sri Srinivasa Nursing Home"
+        },
+        {
+            "location": "17.3977354, 78.5095841",
+            "hospital": "Abhay Nursing Home"
+        },
+        {
+            "location": "17.0005383, 81.8040345",
+            "hospital": "Aravindam Ortho and Physio Centre"
+        },
+        {
+            "location": "16.9955344, 81.777335",
+            "hospital": "Aruna Hospital and Poly Clinic"
+        },
+        {
+            "location": "17.0085074, 81.7903215",
+            "hospital": "Bhaskara Raju Children Hospital"
+        },
+        {
+            "location": "16.9955344, 81.777335",
+            "hospital": "Sri Satya Nursing Home"
+        },
+        {
+            "location": "11.0216153, 76.9512637",
+            "hospital": "Sri Srinivasa Hospitals"
+        },
+        {
+            "location": "17.0005383, 81.8040345",
+            "hospital": "Sri Venkateswara Hospitals"
+        },
+        {
+            "location": "17.025988, 81.785442",
+            "hospital": "Abhaya Emergency Centre"
+        },
+        {
+            "location": "17.0085074, 81.7903215",
+            "hospital": "Alert Emergency Hospital"
+        },
+        {
+            "location": "17.0068895, 81.7829842",
+            "hospital": "Ammanna Memorial Murtys Neuro Super Speciality Ho"
+        },
+        {
+            "location": "16.9937064, 81.7762669",
+            "hospital": "Aruna Hospital and Polyclinic"
+        },
+        {
+            "location": "17.0112469, 81.7827774",
+            "hospital": "Bharadwaja Heart and Maternity Centre"
+        },
+        {
+            "location": "17.048743, 81.799831",
+            "hospital": "Bhavani Nursing Home"
+        },
+        {
+            "location": "17.0096947, 81.7760339",
+            "hospital": "Buddudu Orthopeadic Hospital"
+        },
+        {
+            "location": "17.0068895, 81.7829842",
+            "hospital": "Coastal Cardiac And Maternity Centre"
+        },
+        {
+            "location": "17.0005383, 81.8040345",
+            "hospital": "Geetha Mullapudi Sperspeciality Dental Hospital"
+        },
+        {
+            "location": "17.0085074, 81.7903215",
+            "hospital": "Gowthami Nursing Home"
+        },
+        {
+            "location": "17.0085074, 81.7903215",
+            "hospital": "Harsha Hospitals"
+        },
+        {
+            "location": "17.0068375, 81.7875023",
+            "hospital": "Kamalakar Hospital"
+        },
+        {
+            "location": "17.0112469, 81.7827774",
+            "hospital": "Krishna Nursing Home"
+        },
+        {
+            "location": "17.0068895, 81.7829842",
+            "hospital": "Nest Hospital"
+        },
+        {
+            "location": "17.0005383, 81.8040345",
+            "hospital": "Netra Eye Care"
+        },
+        {
+            "location": "17.0015368, 81.7899798",
+            "hospital": "Prasanthi Nursing Home"
+        },
+        {
+            "location": "11.021315, 76.970487",
+            "hospital": "Raja Neuro And Multi Speciality Hospital Pvt Ltd"
+        },
+        {
+            "location": "17.4404903, 78.4739384",
+            "hospital": "Rajahmundry Orthopedic Hospital"
+        },
+        {
+            "location": "17.0068895, 81.7829842",
+            "hospital": "Ratna Orthopaedic Center"
+        },
+        {
+            "location": "17.0068895, 81.7829842",
+            "hospital": "Sanjana Orthopaedic Hospital"
+        },
+        {
+            "location": "17.0068895, 81.7829842",
+            "hospital": "Sreya Medical Speciality Centre"
+        },
+        {
+            "location": "17.0112469, 81.7827774",
+            "hospital": "Sri Ramadas Hospitals"
+        },
+        {
+            "location": "17.0068895, 81.7829842",
+            "hospital": "Sri Suguna Children,S Hospital"
+        },
+        {
+            "location": "17.0068375, 81.7875023",
+            "hospital": "Surya Hospital"
+        },
+        {
+            "location": "17.006802, 81.7830251",
+            "hospital": "Swetha Hospitals - Rajahmundry"
+        },
+        {
+            "location": "17.0039159, 81.7948734",
+            "hospital": "V.B. Chest Institute"
+        },
+        {
+            "location": "17.0021675, 81.7855401",
+            "hospital": "Vijaya Hospital"
+        },
+        {
+            "location": "17.0151123, 81.7725499",
+            "hospital": "Akira Eye Hospital"
+        },
+        {
+            "location": "17.0100744, 81.7724645",
+            "hospital": "Dr A V R Ananda Rao Memorial Eye Clinic"
+        },
+        {
+            "location": "17.0005383, 81.8040345",
+            "hospital": "Kranti Nursing Home"
+        },
+        {
+            "location": "17.0005383, 81.8040345",
+            "hospital": "Royal Hospital"
+        },
+        {
+            "location": "17.0096947, 81.7760339",
+            "hospital": "Siddhartha Orthopaedic Hospital and Polyclinic"
+        },
+        {
+            "location": "17.0151123, 81.7725499",
+            "hospital": "Sree Latha Hospital"
+        },
+        {
+            "location": "17.0005383, 81.8040345",
+            "hospital": "Sri Ram Nursing Home"
+        },
+        {
+            "location": "17.0005383, 81.8040345",
+            "hospital": "Sri Srinivasa Orthopaedic Hospital"
+        },
+        {
+            "location": "17.0209155, 81.7711827",
+            "hospital": "Chaitanya Nursing Home"
+        },
+        {
+            "location": "17.0127714, 81.7782905",
+            "hospital": "Swatantra Hospitals"
+        },
+        {
+            "location": "17.0320097, 81.8101386",
+            "hospital": "Saiteja Hospital"
+        },
+        {
+            "location": "13.0560527, 80.2184139",
+            "hospital": "Adarsh Multi Speciality Hospital and Neuro Center"
+        },
+        {
+            "location": "43.1938516, -71.5723953",
+            "hospital": "Sruthi Hospitals"
+        },
+        {
+            "location": "16.567804, 81.9972968",
+            "hospital": "Adarsha Hospital"
+        },
+        {
+            "location": "16.4075276, 81.7886325",
+            "hospital": "Care Hospital"
+        },
+        {
+            "location": "16.5720904, 82.0008548",
+            "hospital": "Konaseema Institute Of Medical Sciences"
+        },
+        {
+            "location": "16.5720904, 82.0008548",
+            "hospital": "Konaseema Institute Of Medical Sciences"
+        },
+        {
+            "location": "15.2913649, 75.1458943",
+            "hospital": "Konaseva Institute Of Medical Science"
+        },
+        {
+            "location": "16.5720904, 82.0008548",
+            "hospital": "Rohine Mother and Child Care Hospital"
+        },
+        {
+            "location": "16.5720904, 82.0008548",
+            "hospital": "Sai Leela Orthopaedic Hospital"
+        },
+        {
+            "location": "16.567804, 81.9972968",
+            "hospital": "Sri Konaseema Specialities Hospital"
+        },
+        {
+            "location": "16.573678, 81.999496",
+            "hospital": "Sri Venkateswara Nursing Home"
+        },
+        {
+            "location": "16.567804, 81.9972968",
+            "hospital": "V.N.Nursing Home"
+        },
+        {
+            "location": "16.6414998, 82.1042955",
+            "hospital": "Janatha Hospital"
+        },
+        {
+            "location": "16.7160148, 81.8957846",
+            "hospital": "Sree Sravana Nursing Home"
+        },
+        {
+            "location": "17.4986709, 81.9998367",
+            "hospital": "Sri Venkateswara Nursing Home"
+        },
+        {
+            "location": "16.517212, 81.8702795",
+            "hospital": "Sri Maha Laxmi Nursing Home"
+        },
+        {
+            "location": "16.9999058, 81.7735238",
+            "hospital": "Vijaya Laxmi Nursing Home"
+        },
+        {
+            "location": "17.3036498, 82.2101462",
+            "hospital": "Ravi Nursing Home"
+        },
+        {
+            "location": "16.4242668, 81.7185253",
+            "hospital": "Sri Sai Bhramarambika Nursing Home"
+        },
+        {
+            "location": "17.063139, 81.2917971",
+            "hospital": "Vrd Care Hospital"
+        },
+        {
+            "location": "16.8349808, 82.0302926",
+            "hospital": "Adarsh Nursing Home"
+        },
+        {
+            "location": "16.8372408, 82.0325401",
+            "hospital": "Kamala Nursing Home"
+        },
+        {
+            "location": "13.0906485, 80.1555927",
+            "hospital": "Sri Venkateshwara Nursign Home"
+        },
+        {
+            "location": "16.7914449, 82.0597816",
+            "hospital": "Sri Madhavananda Speciality Hospital"
+        },
+        {
+            "location": "43.1938516, -71.5723953",
+            "hospital": "G. S. L. General Hospital and Medical College"
+        },
+        {
+            "location": "16.8652942, 81.9261999",
+            "hospital": "Santhi Childrens Hospital"
+        },
+        {
+            "location": "16.8652942, 81.9261999",
+            "hospital": "Sri Bikkina Nursing Home"
+        },
+        {
+            "location": "16.8652942, 81.9261999",
+            "hospital": "Srinivasa Nursing Home"
+        },
+        {
+            "location": "16.5871358, 82.008204",
+            "hospital": "Dr.K.V.R.Hospital"
+        },
+        {
+            "location": "17.355267, 82.5429325",
+            "hospital": "Doctors Plaza"
+        },
+        {
+            "location": "17.3645993, 82.5460478",
+            "hospital": "Pandu Ranga Praja Vidyasala"
+        },
+        {
+            "location": "17.355267, 82.5429325",
+            "hospital": "Sri Mallikarjuna Nursing Home"
+        },
+        {
+            "location": "17.355267, 82.5429325",
+            "hospital": "Suresh Hospital"
+        },
+        {
+            "location": "17.2882648, 82.1063568",
+            "hospital": "Lakshmi Balaji Nursing Home"
+        },
+        {
+            "location": "17.0756673, 82.1360026",
+            "hospital": "Rao's Nursing Home"
+        },
+        {
+            "location": "17.0785002, 82.1366951",
+            "hospital": "Sree Sreenivasa Hospital"
+        },
+        {
+            "location": "17.1172164, 82.268659",
+            "hospital": "Chopde's Nursing Home"
+        },
+        {
+            "location": "17.1124269, 82.2528975",
+            "hospital": "Sri Varalakshmi Hospital"
+        },
+        {
+            "location": "16.2861218, 80.4462117",
+            "hospital": "Adarsha Hospitals"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Ahalya Nursing Home"
+        },
+        {
+            "location": "16.2893144, 80.4604643",
+            "hospital": "Amaravathi Institute Of Medical Sciences Pvt Ltd"
+        },
+        {
+            "location": "16.2989705, 80.4523668",
+            "hospital": "Amma Childrens Hospital"
+        },
+        {
+            "location": "16.2432189, 80.647093",
+            "hospital": "Aruna Hospital"
+        },
+        {
+            "location": "16.3411536, 80.6280525",
+            "hospital": "Aswini Hospitals"
+        },
+        {
+            "location": "16.2964097, 80.4490511",
+            "hospital": "Bayya Ent Hospital And Research Centre"
+        },
+        {
+            "location": "16.2988738, 80.4525909",
+            "hospital": "Chalsani Hospital"
+        },
+        {
+            "location": "16.2861218, 80.4462117",
+            "hospital": "Coastal Care Hospital"
+        },
+        {
+            "location": "16.2861218, 80.4462117",
+            "hospital": "Dhulipalla Hospital Pvt Ltd"
+        },
+        {
+            "location": "16.2989705, 80.4523668",
+            "hospital": "Dr.Rangarao Nursing Home (P) Ltd"
+        },
+        {
+            "location": "16.2988738, 80.4525909",
+            "hospital": "Guntur City Hospital-Guntur"
+        },
+        {
+            "location": "16.2370726, 80.6469011",
+            "hospital": "Janardani Hospital"
+        },
+        {
+            "location": "16.2988738, 80.4525909",
+            "hospital": "Karumuri Super Speciality Hospital Pvt Ltd"
+        },
+        {
+            "location": "16.2861218, 80.4462117",
+            "hospital": "Krishna Childrens Hospital"
+        },
+        {
+            "location": "16.2989705, 80.4523668",
+            "hospital": "Lakshmi Meenakshi Eye and Maternity Care"
+        },
+        {
+            "location": "16.2861218, 80.4462117",
+            "hospital": "Lalitha Super Specialty Hospital"
+        },
+        {
+            "location": "16.2988738, 80.4525909",
+            "hospital": "Life Hospital"
+        },
+        {
+            "location": "16.3011491, 80.4389977",
+            "hospital": "Mahathi Nursing Home"
+        },
+        {
+            "location": "16.2989705, 80.4523668",
+            "hospital": "Maruthi E.N.T. Hospital"
+        },
+        {
+            "location": "16.4165212, 80.4582736",
+            "hospital": "Mediline Hospital"
+        },
+        {
+            "location": "16.2501646, 80.0225996",
+            "hospital": "Mother Theresa Multispeciality Hospital"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Nandanaa's Multi Care Hospital"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Padmas Hospital"
+        },
+        {
+            "location": "16.2861218, 80.4462117",
+            "hospital": "Padmavathi Super Speciality Hospital"
+        },
+        {
+            "location": "16.2989705, 80.4523668",
+            "hospital": "Peoples Trauma And Emergency Hospital"
+        },
+        {
+            "location": "17.3730192, 78.547636",
+            "hospital": "Pragathi Hospitals"
+        },
+        {
+            "location": "16.2861218, 80.4462117",
+            "hospital": "Prof. D. Ramakotaiah Childerns Hospital"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Purnasai Hospital"
+        },
+        {
+            "location": "17.3730192, 78.547636",
+            "hospital": "R K Eye Center"
+        },
+        {
+            "location": "17.3730192, 78.547636",
+            "hospital": "Raghavendra Hospitals"
+        },
+        {
+            "location": "16.2940783, 80.4490134",
+            "hospital": "Rajyalakshmi Nursing Home"
+        },
+        {
+            "location": "16.2989705, 80.4523668",
+            "hospital": "S.G.O. Clinic"
+        },
+        {
+            "location": "16.2988738, 80.4525909",
+            "hospital": "Sai Bhaskar Trauma and Emergency"
+        },
+        {
+            "location": "16.2893144, 80.4604643",
+            "hospital": "Sai Chandan Eye Hospital"
+        },
+        {
+            "location": "16.0526834, 79.7400177",
+            "hospital": "Sai Sri Nursing Home"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Sathvika Hospital"
+        },
+        {
+            "location": "17.3730192, 78.547636",
+            "hospital": "Shri Ramchandra Kidney Centre"
+        },
+        {
+            "location": "16.3146349, 80.4409967",
+            "hospital": "Sravani Hospital"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Sri Krishna Institute Of Medical Sciences"
+        },
+        {
+            "location": "16.2861218, 80.4462117",
+            "hospital": "Sri Ramakrishna Nursing Home"
+        },
+        {
+            "location": "16.2989705, 80.4523668",
+            "hospital": "Sri Satya Sai Hospital"
+        },
+        {
+            "location": "16.433573, 80.5677103",
+            "hospital": "Sri Vijayasai Hospital"
+        },
+        {
+            "location": "16.2988738, 80.4525909",
+            "hospital": "Srinivasa Nursing Hom"
+        },
+        {
+            "location": "16.2964097, 80.4490511",
+            "hospital": "Sudarsana Eye Hospital"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Sujatha Laparoscopy and Infertility Centre"
+        },
+        {
+            "location": "16.2988238, 80.4528501",
+            "hospital": "Tulasi Multi Speciality Hospital"
+        },
+        {
+            "location": "16.2893144, 80.4604643",
+            "hospital": "Vasan Eye Care Hospital"
+        },
+        {
+            "location": "16.2988238, 80.4528501",
+            "hospital": "Veena Hospital"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Venkata Ramana Eye Hospital"
+        },
+        {
+            "location": "16.2398274, 80.0374843",
+            "hospital": "Venkateswara Mother and Child Hospital"
+        },
+        {
+            "location": "16.2861218, 80.4462117",
+            "hospital": "Yerra`S Super Speciality Hospital Pvt Ltd"
+        },
+        {
+            "location": "16.342393, 80.4390298",
+            "hospital": "Ala Hospital"
+        },
+        {
+            "location": "16.2997929, 80.4384343",
+            "hospital": "Aruna Multi Speciality Hospitals"
+        },
+        {
+            "location": "16.305141, 80.4403014",
+            "hospital": "Bmr Hospitals"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Childrens Hospital"
+        },
+        {
+            "location": "16.305141, 80.4403014",
+            "hospital": "Gopala Krishna Nursing Home"
+        },
+        {
+            "location": "16.3146349, 80.4409967",
+            "hospital": "Hi Tech Trauma And Critical Care Hospital Ltd"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Pratyusha Childrens Hospital"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Sri Bhavani Nursing Home-Guntur"
+        },
+        {
+            "location": "16.305141, 80.4403014",
+            "hospital": "Sri Sai Hospitals"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Sri Sathya Sai Institute Of Orl"
+        },
+        {
+            "location": "16.2988238, 80.4528501",
+            "hospital": "Teja Maternity Hospital And Poly Clinic"
+        },
+        {
+            "location": "16.2903294, 80.4507311",
+            "hospital": "Sri Lakshmi Venkateswara Nursing Home"
+        },
+        {
+            "location": "16.2985944, 80.4378316",
+            "hospital": "St Joseph's General Hospital"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Hyma Hospital"
+        },
+        {
+            "location": "16.3161479, 80.4177459",
+            "hospital": "Sri Sruthi Hospital"
+        },
+        {
+            "location": "16.3258784, 80.427861",
+            "hospital": "Sanjivi Orthopaedic and Physiotherapy Centre"
+        },
+        {
+            "location": "16.3258784, 80.427861",
+            "hospital": "Sree Geetha Eye Hospital"
+        },
+        {
+            "location": "16.3140464, 80.4261372",
+            "hospital": "Vijaya Eye Hospital"
+        },
+        {
+            "location": "17.3730192, 78.547636",
+            "hospital": "Yashaswi Hospital"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Katuri Medical College And Hospital"
+        },
+        {
+            "location": "15.8999881, 80.4692439",
+            "hospital": "Rachana Eye Hospital"
+        },
+        {
+            "location": "15.9058966, 80.4715866",
+            "hospital": "Srinivasa Children Hospital"
+        },
+        {
+            "location": "16.0615501, 80.5497294",
+            "hospital": "Adilakshmi Nursing Home"
+        },
+        {
+            "location": "16.0685991, 80.5481667",
+            "hospital": "Datta Prasad Orthopaedic Nursing Home"
+        },
+        {
+            "location": "16.063414, 80.5498178",
+            "hospital": "Dr Sajja Chandramouli Hospital"
+        },
+        {
+            "location": "29.9926248, 31.3223644",
+            "hospital": "Krishna Nursing Home"
+        },
+        {
+            "location": "16.3120407, 80.4319567",
+            "hospital": "Nightingale Hospital"
+        },
+        {
+            "location": "16.0615501, 80.5497294",
+            "hospital": "Ravi Cardiac and Diabetic Care Center"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Srinivasa Nursing Home"
+        },
+        {
+            "location": "16.0653545, 80.5530292",
+            "hospital": "Vijaya Sarada Nursing Home"
+        },
+        {
+            "location": "16.2413768, 80.6463314",
+            "hospital": "Alapati Nursing Home"
+        },
+        {
+            "location": "16.2861218, 80.4462117",
+            "hospital": "Amma Hospital"
+        },
+        {
+            "location": "16.2432189, 80.647093",
+            "hospital": "Dr Chadalavada Krishnaiah Multi Speciality Hospital"
+        },
+        {
+            "location": "16.2395313, 80.6493396",
+            "hospital": "Ganga Kumari Memorial Children Nursing Home"
+        },
+        {
+            "location": "16.2372555, 80.6472588",
+            "hospital": "Gayatri Hospital"
+        },
+        {
+            "location": "16.2432069, 80.6466435",
+            "hospital": "Health Hospitals"
+        },
+        {
+            "location": "16.2395313, 80.6493396",
+            "hospital": "J.K Hospital"
+        },
+        {
+            "location": "16.2410191, 80.649556",
+            "hospital": "Kommineni Nursing Home"
+        },
+        {
+            "location": "16.2372555, 80.6472588",
+            "hospital": "Smt D Indira Memorial Meternity Nursing Home"
+        },
+        {
+            "location": "16.2372555, 80.6472588",
+            "hospital": "Srijani Eye Hospital"
+        },
+        {
+            "location": "16.2395313, 80.6493396",
+            "hospital": "Vadlamudi Hospital"
+        },
+        {
+            "location": "16.0174248, 80.8294747",
+            "hospital": "K J Memorial Hospital"
+        },
+        {
+            "location": "16.0174248, 80.8294747",
+            "hospital": "Sri V R M Nursing Home"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Surm Nursing Home"
+        },
+        {
+            "location": "16.0174248, 80.8294747",
+            "hospital": "Vyshnave Nursing Home - Repalle"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Sri Ramachandra Nursing Home"
+        },
+        {
+            "location": "16.0546961, 80.6828266",
+            "hospital": "Sri Evuru Subbarao Memorial Nursing Home"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Krishna Nursing Home"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Nsr Memorial Children Hospital"
+        },
+        {
+            "location": "16.2988738, 80.4525909",
+            "hospital": "Quality Hospital"
+        },
+        {
+            "location": "16.4049645, 80.1213066",
+            "hospital": "Sanjana Speciality Hospital"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Sri Radha Krishna Nursing Home"
+        },
+        {
+            "location": "16.4851565, 79.8900552",
+            "hospital": "Abhaya Multispecialty Hospitals"
+        },
+        {
+            "location": "16.2370726, 80.6469011",
+            "hospital": "Balaji Cancer Care Centre"
+        },
+        {
+            "location": "16.4772374, 79.8995349",
+            "hospital": "Dr Anji Reddy Multispeciality Hospitals Pvt Ltd"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Hi Tech Trauma and Critical Care Hospital"
+        },
+        {
+            "location": "16.4759885, 79.4394459",
+            "hospital": "Ramakrishna Hospital - Macherla"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Nri General Hospital"
+        },
+        {
+            "location": "16.4346457, 80.5645418",
+            "hospital": "P.G.S.Nursing Home"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Sree Venkateshwara Nursing Home"
+        },
+        {
+            "location": "16.4342432, 80.5678268",
+            "hospital": "Sree Venkateswara Nursing Home"
+        },
+        {
+            "location": "16.3010263, 80.4458641",
+            "hospital": "Amrutha Hospital"
+        },
+        {
+            "location": "16.4954892, 80.5870903",
+            "hospital": "Bayya Ent Hospital and Research Center"
+        },
+        {
+            "location": "16.3436965, 80.4864407",
+            "hospital": "Bommidala Cancer Institute"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Sankara Eye Hospital"
+        },
+        {
+            "location": "16.2355381, 80.0553534",
+            "hospital": "Amulya Nursing Home"
+        },
+        {
+            "location": "16.2398274, 80.0374843",
+            "hospital": "Anantha Nursing Home"
+        },
+        {
+            "location": "16.2355381, 80.0553534",
+            "hospital": "Asvini Nethralayam."
+        },
+        {
+            "location": "16.2398274, 80.0374843",
+            "hospital": "Bala Tripura Nursing Home"
+        },
+        {
+            "location": "16.2355381, 80.0553534",
+            "hospital": "Mar Hospitals"
+        },
+        {
+            "location": "16.2353506, 80.0479039",
+            "hospital": "Prasanthi Nursing Home"
+        },
+        {
+            "location": "16.2318618, 80.0417167",
+            "hospital": "Sai Ramya Nursing Home"
+        },
+        {
+            "location": "16.2339171, 80.0453169",
+            "hospital": "Sri Lakshmi Janaki Nursing Home"
+        },
+        {
+            "location": "16.0174248, 80.8294747",
+            "hospital": "Sri Sai Krupa Netralayam"
+        },
+        {
+            "location": "16.2355381, 80.0553534",
+            "hospital": "Susmitha Ortho Trauma Hospital"
+        },
+        {
+            "location": "16.2334363, 80.0451415",
+            "hospital": "Venkateshwara Mother And Child Hospital"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Vijaya Nursing Home"
+        },
+        {
+            "location": "16.4733633, 79.4444472",
+            "hospital": "Sowjanya Nursing Home"
+        },
+        {
+            "location": "16.0924301, 80.1623948",
+            "hospital": "Manju Nursing Home"
+        },
+        {
+            "location": "16.0924301, 80.1623948",
+            "hospital": "Pragathi Nursing Home - Chilakaluripet"
+        },
+        {
+            "location": "16.0924301, 80.1623948",
+            "hospital": "Prasad Nursing Home -Chilakaluripet"
+        },
+        {
+            "location": "16.3066525, 80.4365402",
+            "hospital": "Ramakrishna Memorial Nursing Home"
+        },
+        {
+            "location": "16.0924301, 80.1623948",
+            "hospital": "Sri Ratna Laxmi Nursing Home"
+        },
+        {
+            "location": "16.0568398, 79.7453318",
+            "hospital": "G Show Reddy Memorial Nursing Home"
+        },
+        {
+            "location": "16.0568398, 79.7453318",
+            "hospital": "Sajana Nursing Home"
+        },
+        {
+            "location": "17.4230892, 78.42647",
+            "hospital": "L V Prasad Eye Institute"
+        },
+        {
+            "location": "17.4325235, 78.4070152",
+            "hospital": "Apollo Hospitals"
+        },
+        {
+            "location": "17.406396, 78.471592",
+            "hospital": "Mediciti Hospital"
+        },
+        {
+            "location": "17.430016, 78.4897935",
+            "hospital": "KIMS Hospital, Secunderabad"
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "Kamineni Hospital"
+        },
+        {
+            "location": "17.4233704, 78.4593342",
+            "hospital": "Yashoda Hospital"
+        },
+        {
+            "location": "17.4283705, 78.4065896",
+            "hospital": "Fernandez Hospital"
+        },
+        {
+            "location": "17.421204, 78.45829",
+            "hospital": "Asian Institute of Gastroenterology"
+        },
+        {
+            "location": "30.6708576, -90.5784",
+            "hospital": "Udai Clinic Orthopedic Centre"
+        },
+        {
+            "location": "17.4447068, 78.4663812",
+            "hospital": "Homeocare International"
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "Nizams Institute of Medical Sciences (NIMS)"
+        },
+        {
+            "location": "17.4048879, 78.4819892",
+            "hospital": "Sathya Kidney Centre and Super Speciality Hospital"
+        },
+        {
+            "location": "17.4422003, 78.4862051",
+            "hospital": "Sunshine Hospital"
+        },
+        {
+            "location": "17.421868, 78.4325607",
+            "hospital": "Basavatarakam Indo American Cancer Institute And Research Centre"
+        },
+        {
+            "location": "17.472855, 78.3101779",
+            "hospital": "Citizens Hospital"
+        },
+        {
+            "location": "17.3854426, 78.4741288",
+            "hospital": "Care Hospital, Nampally"
+        },
+        {
+            "location": "17.393152, 78.4726553",
+            "hospital": "Medwin Hospital"
+        },
+        {
+            "location": "17.4622103, 78.3568492",
+            "hospital": "Universal Superspeciality Dental Hospital, Kondapur"
+        },
+        {
+            "location": "17.4399295, 78.4982741",
+            "hospital": "Sunshine Heart Institute"
+        },
+        {
+            "location": "31.5692047, 74.3797556",
+            "hospital": "CGHS Dispensary No.I, Charmina"
+        },
+        {
+            "location": "17.3991205, 78.4460041",
+            "hospital": "CGHS Dispensary No.II, Humayunagar"
+        },
+        {
+            "location": "17.4218188, 78.5031792",
+            "hospital": "CGHS Dispensary No.III,\\nSecunderabad"
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "CGHS Dispensary No.IV,\\nBegumpet"
+        },
+        {
+            "location": "17.3852673, 78.4849747",
+            "hospital": "CGHS Dispensary No.VI,\\nKachiguda"
+        },
+        {
+            "location": "17.37086, 78.499155",
+            "hospital": "CGHS Dispensary No.VII,\\nMalakpet"
+        },
+        {
+            "location": "17.3354406, 78.4989506",
+            "hospital": "CGHS Dispensary No.VII,\\nKanchanbagh"
+        },
+        {
+            "location": "17.4980973, 78.5027043",
+            "hospital": "CGHS Dispensary No.IX,\\nAlwal, Secunderabad"
+        },
+        {
+            "location": "17.4157401, 78.5410169",
+            "hospital": "CGHS Dispensary No.XI,\\nKakatiyanagar"
+        },
+        {
+            "location": "17.3681151, 78.523757",
+            "hospital": "CGHS Dispensary No.XII,\\nDilsuknagar"
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "CGHS Dispensary No.XII,\\nTamaka"
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "PC-I, KS Bhawan"
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "PC-II, AGS Office Bldg."
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "PC Hyderabad"
+        },
+        {
+            "location": "17.4138277, 78.4397584",
+            "hospital": "Rainbow Hospital for Women and Children, Banjara Hills"
+        },
+        {
+            "location": "17.4551786, 78.4999876",
+            "hospital": "Rainbow Hospital for Women and Children, Secunderabad"
+        },
+        {
+            "location": "17.3755207, 78.4980753",
+            "hospital": "Yashoda Super Speciality Hospital"
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "Yashoda Super Speciality Hospital"
+        },
+        {
+            "location": "17.4101779, 78.4284907",
+            "hospital": "Omega Hospital"
+        },
+        {
+            "location": "17.4830292, 78.39514",
+            "hospital": "Prime Hospital, Kukatpally"
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "Lotus Children's Hospital, Lakdikapul"
+        },
+        {
+            "location": "17.4861948, 78.3892697",
+            "hospital": "Lotus Children's Hospital, Kukatpally"
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "Udai Omni Hospital"
+        },
+        {
+            "location": "17.368162, 78.535811",
+            "hospital": "Omni Hospital"
+        },
+        {
+            "location": "17.4226283, 78.3364349",
+            "hospital": "Continental Hospital Limited"
+        },
+        {
+            "location": "17.390546, 78.481084",
+            "hospital": "Aditya Hospital, ABIDS"
+        },
+        {
+            "location": "17.408118, 78.484689",
+            "hospital": "Sai Vani Super Specialty Hospital"
+        },
+        {
+            "location": "17.4697664, 78.3853073",
+            "hospital": "Ankura Hospital for Children and Women, Kukatpally"
+        },
+        {
+            "location": "17.4447068, 78.4663812",
+            "hospital": "Ankura Hospital for Children and Women, Secunderabad"
+        },
+        {
+            "location": "17.4904322, 78.3926349",
+            "hospital": "Anupama Hospital"
+        },
+        {
+            "location": "17.3909698, 78.4379132",
+            "hospital": "Apollo DRDO Hospital"
+        },
+        {
+            "location": "17.4399295, 78.4982741",
+            "hospital": "Apollo Hospital"
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "Apollo Hospital"
+        },
+        {
+            "location": "17.3730927, 78.4900381",
+            "hospital": "Apollo Emergency Centre"
+        },
+        {
+            "location": "17.4227225, 78.4283057",
+            "hospital": "Asha Hospital"
+        },
+        {
+            "location": "31.3929171, 73.0853019",
+            "hospital": "Bristlecone Hospital"
+        },
+        {
+            "location": "45.0387777, -63.1587374",
+            "hospital": "Care Hospital"
+        },
+        {
+            "location": "17.4136932, 78.4979469",
+            "hospital": "Guru Nanak Care Hospital"
+        },
+        {
+            "location": "17.4245471, 78.4310742",
+            "hospital": "Challa Eye Care Centre"
+        },
+        {
+            "location": "17.4396894, 78.4506241",
+            "hospital": "Challa Hospital"
+        },
+        {
+            "location": "17.3499297, 78.5522438",
+            "hospital": "Disha Children's Hospital"
+        },
+        {
+            "location": "17.3730927, 78.4900381",
+            "hospital": "Dr.Agarwal's Eye Hospital"
+        },
+        {
+            "location": "17.3990949, 78.4773256",
+            "hospital": "Dr.Ramayya's Urology Nephrology Institute and Hospital Private Limited"
+        },
+        {
+            "location": "17.4875018, 78.3997822",
+            "hospital": "Global Eye Hospital"
+        },
+        {
+            "location": "17.3985691, 78.4444924",
+            "hospital": "Goodwill Kidney and Surgical Centre"
+        },
+        {
+            "location": "17.401414, 78.480615",
+            "hospital": "Hyderabad Eye Centre"
+        },
+        {
+            "location": "17.4853956, 78.3903861",
+            "hospital": "Icon Hospital"
+        },
+        {
+            "location": "17.461399, 78.4908723",
+            "hospital": "Janapareddy Hospital"
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "Kamineni Hospital"
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "Kamineni Fertility Centre"
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "Lions Sadhuram Eye Hospital"
+        },
+        {
+            "location": "17.4380983, 78.3994013",
+            "hospital": "Live Life Hospital"
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "Majestic Hospital"
+        },
+        {
+            "location": "17.4481595, 78.4619685",
+            "hospital": "Maxivision Eye Hospital"
+        },
+        {
+            "location": "17.393152, 78.4726553",
+            "hospital": "Medwin Hospital"
+        },
+        {
+            "location": "17.4104308, 78.4374452",
+            "hospital": "Motherhood Hospital"
+        },
+        {
+            "location": "17.4400802, 78.3489168",
+            "hospital": "Motherhood Hospital"
+        },
+        {
+            "location": "17.456708, 78.4390542",
+            "hospital": "Neelima"
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "NeoRetina"
+        },
+        {
+            "location": "17.4447068, 78.4663812",
+            "hospital": "Pace Hospital"
+        },
+        {
+            "location": "17.424611, 78.450531",
+            "hospital": "Pragna Hospital"
+        },
+        {
+            "location": "17.4947934, 78.3996441",
+            "hospital": "Prasad Hospital"
+        },
+        {
+            "location": "17.4164876, 78.5135489",
+            "hospital": "Sridevi Nursing Home"
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "Preeti Urology and Kidney Hospital"
+        },
+        {
+            "location": "17.4119955, 78.571417",
+            "hospital": "Raghava Multi Speciality Hospital"
+        },
+        {
+            "location": "17.5144468, 78.4453532",
+            "hospital": "Ram Hospital"
+        },
+        {
+            "location": "17.4914639, 78.4159255",
+            "hospital": "Remedy Hosptials"
+        },
+        {
+            "location": "17.4196548, 78.4990004",
+            "hospital": "Sagar Lal Memorial Hospital and Matadin Goel Research Center"
+        },
+        {
+            "location": "17.4947934, 78.3996441",
+            "hospital": "Sankhya Hospital"
+        },
+        {
+            "location": "18.4451474, 73.855663",
+            "hospital": "Sri Srinivasa Hospital"
+        },
+        {
+            "location": "17.385044, 78.486671",
+            "hospital": "Supraja Hospital"
+        },
+        {
+            "location": "17.426249, 78.5316232",
+            "hospital": "Suraksha Childrens Hospital"
+        },
+        {
+            "location": "17.4916972, 78.4018218",
+            "hospital": "Surakshaka Multi Speciality Hospital"
+        },
+        {
+            "location": "17.4251835, 78.4503274",
+            "hospital": "Swarup Eye Centre, Punjagutta"
+        },
+        {
+            "location": "17.393, 78.473",
+            "hospital": "Swarup Eye Centre, Chapel Road"
+        },
+        {
+            "location": "17.4237016, 78.4583888",
+            "hospital": "The Deccan Hospital"
+        },
+        {
+            "location": "19.0591772, 72.8468228",
+            "hospital": "Udbhava Children's Hospital"
+        },
+        {
+            "location": "17.431748, 78.44654",
+            "hospital": "Vasan Healthcare Private Limited, Ameerpet"
+        },
+        {
+            "location": "17.411757, 78.4546822",
+            "hospital": "Vasan Healthcare Private Limited, Begumpet"
+        },
+        {
+            "location": "17.4836979, 78.3158338",
+            "hospital": "Vasan Healthcare Private Limited, Chandanagar"
+        },
+        {
+            "location": "17.4020703, 78.4870568",
+            "hospital": "Vasan Healthcare Private Limited, Himayath Nagar"
+        },
+        {
+            "location": "17.4275372, 78.4142451",
+            "hospital": "Vasan Healthcare Private Limited, Jubilee Hills"
+        },
+        {
+            "location": "17.3945149, 78.4425619",
+            "hospital": "Vasan Healthcare Private Limited, Mehidipatnam"
+        },
+        {
+            "location": "17.3695953, 78.495794",
+            "hospital": "Vasan Healthcare Private Limited, Santosh Nagar"
+        },
+        {
+            "location": "17.4036772, 78.4560922",
+            "hospital": "Vijay Marie Hospital"
+        },
+        {
+            "location": "17.4399295, 78.4982741",
+            "hospital": "Vijaya Health Care"
+        },
+        {
+            "location": "17.4196548, 78.4990004",
+            "hospital": "Gandhi Medical College and Hospital"
+        },
+        {
+            "location": "16.5226281, 80.6153485",
+            "hospital": "Amma Hospital"
+        },
+        {
+            "location": "16.5208773, 80.6141798",
+            "hospital": "Anurag Hospital For Children"
+        },
+        {
+            "location": "16.5847244, 80.5174502",
+            "hospital": "Aval Hospital For Women and Children's Hospital"
+        },
+        {
+            "location": "16.3144313, 80.4287506",
+            "hospital": "Chandamama Hospital"
+        },
+        {
+            "location": "16.5226281, 80.6153485",
+            "hospital": "Deepak Nursing Home"
+        },
+        {
+            "location": "16.5196338, 80.6151124",
+            "hospital": "K.B.Hospital"
+        },
+        {
+            "location": "16.4789336, 80.6905205",
+            "hospital": "L V Prasad Eye Institute"
+        },
+        {
+            "location": "16.5220371, 80.6130703",
+            "hospital": "Mamata Childrens Hospital"
+        },
+        {
+            "location": "16.5088694, 80.6267092",
+            "hospital": "Peoples Clinic"
+        },
+        {
+            "location": "16.5166829, 80.6141521",
+            "hospital": "Prabha Nursing Home"
+        },
+        {
+            "location": "16.4942634, 80.6702368",
+            "hospital": "Pragya Eye Hospital , Phaco Surgical Centre"
+        },
+        {
+            "location": "16.5215357, 80.6167566",
+            "hospital": "Sri Arvind Hospital"
+        },
+        {
+            "location": "16.5280852, 80.5960591",
+            "hospital": "V.G.R. Diabetes Specialities Hospital"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Yalamanchi Hospitals and Research Centres Pvt Ltd"
+        },
+        {
+            "location": "16.4950985, 80.6606708",
+            "hospital": "Andhra Hospitals"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Chaitra Hospitals Surgical And Maternity"
+        },
+        {
+            "location": "16.5098886, 80.6354665",
+            "hospital": "Charitha Sri Hospitals Ltd"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "City Cancer Centre"
+        },
+        {
+            "location": "16.8455916, 77.4786965",
+            "hospital": "Giffard Memorial Hospital"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Giridhar Ent Hospital"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Help Hospital Pvt Limited"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Ishwarya Maternity Hospital"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Latha Superspecialities"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Life Line Trimurthy Hospital"
+        },
+        {
+            "location": "17.3649406, 78.4622072",
+            "hospital": "M/S Azam Hospital"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Meenakshi Eye Hospital"
+        },
+        {
+            "location": "16.5098886, 80.6354665",
+            "hospital": "Modern Retina Centre"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Mother and Child Hospital and Family Hospital"
+        },
+        {
+            "location": "16.4966093, 80.7029041",
+            "hospital": "Padmaja Clinic Womens And Multispeciality Hospital"
+        },
+        {
+            "location": "13.0407328, 80.2321075",
+            "hospital": "Praja Vydyasala"
+        },
+        {
+            "location": "16.7852784, 80.8455008",
+            "hospital": "Prasanthi Hospital"
+        },
+        {
+            "location": "16.5139553, 80.6379471",
+            "hospital": "Preethi Childrens Hospital"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Purna Heart Institute"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Raavella Eye Hospital"
+        },
+        {
+            "location": "16.5118088, 80.6387683",
+            "hospital": "Safe Hospital"
+        },
+        {
+            "location": "16.5098886, 80.6354665",
+            "hospital": "Sai Swetha Mother And Child Hospital"
+        },
+        {
+            "location": "16.5098886, 80.6354665",
+            "hospital": "Sathish Urology and Andrology Center"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Shri Shiridi Sai Speech and Hearing Institute"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Sindhura Hospital"
+        },
+        {
+            "location": "16.5128151, 80.6356996",
+            "hospital": "Sreya Nursing Home"
+        },
+        {
+            "location": "16.518219, 80.648448",
+            "hospital": "Sri Sai Hospital"
+        },
+        {
+            "location": "16.5135579, 80.6314048",
+            "hospital": "Sri Venkata Sai Urology and Maternity Center"
+        },
+        {
+            "location": "16.5135579, 80.6314048",
+            "hospital": "Sri Venkatasai Urology and Maternity Centre"
+        },
+        {
+            "location": "16.5098886, 80.6354665",
+            "hospital": "Sridevi Eye Hospital"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Srivenkasai Urology and Maternity Center"
+        },
+        {
+            "location": "16.5098886, 80.6354665",
+            "hospital": "Vasan Eye Care Hospital"
+        },
+        {
+            "location": "16.5139502, 80.628529",
+            "hospital": "Vijay Orthopaedic And Accident Care"
+        },
+        {
+            "location": "16.5098886, 80.6354665",
+            "hospital": "Vijaya Super Speciality Hospital"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Vijayachandra Nursing Home"
+        },
+        {
+            "location": "16.5098886, 80.6354665",
+            "hospital": "Vijayawada Institute Of Neuro Sciences (Vins)"
+        },
+        {
+            "location": "16.5122634, 80.6095636",
+            "hospital": "Vijaywada Nursing Home and Polyclinic (P) Ltd"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Vinayasree Nursing Home"
+        },
+        {
+            "location": "16.5139502, 80.628529",
+            "hospital": "Prasanthi Hospitals"
+        },
+        {
+            "location": "16.525613, 80.628529",
+            "hospital": "Rainbow Children's Hospital"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Health Care Global Curie City Cancer Centre - Vijayawada"
+        },
+        {
+            "location": "16.5225482, 80.6576623",
+            "hospital": "Thammineni Hospital and Diagnostic Centre"
+        },
+        {
+            "location": "16.4933591, 80.6895583",
+            "hospital": "Nagarjuna Hospital Ltd"
+        },
+        {
+            "location": "17.3525595, 78.5519097",
+            "hospital": "Nandini Hosipital"
+        },
+        {
+            "location": "16.5027293, 80.652319",
+            "hospital": "Pinnamaneni Polyclinic"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Rich Hospital"
+        },
+        {
+            "location": "15.9039394, 80.4723212",
+            "hospital": "Time Hospitals Pvt Ltd"
+        },
+        {
+            "location": "16.5190381, 80.6705897",
+            "hospital": "Aayush Nri Lepl Health Care Pvt Ltd"
+        },
+        {
+            "location": "16.5100886, 80.6640268",
+            "hospital": "City Cardiac Research Center Ltd"
+        },
+        {
+            "location": "16.4982653, 80.6532258",
+            "hospital": "Lakshmi Eye Maternity and Laproscopy Hospital"
+        },
+        {
+            "location": "16.5121261, 80.6673441",
+            "hospital": "Sentini Hospitals Pvt Ltd"
+        },
+        {
+            "location": "16.5044838, 80.6561708",
+            "hospital": "Vennela Mother and Child Hospital"
+        },
+        {
+            "location": "19.1548096, 72.841757",
+            "hospital": "Care Hospital - Vijayawada"
+        },
+        {
+            "location": "16.5030028, 80.6483516",
+            "hospital": "Chaitanya Eye Hospital"
+        },
+        {
+            "location": "16.5089355, 80.6385881",
+            "hospital": "Chinnari Hospital"
+        },
+        {
+            "location": "16.5033651, 80.6507761",
+            "hospital": "Krishna Institute Of Medical Sciences Limited"
+        },
+        {
+            "location": "16.5115334, 80.6396287",
+            "hospital": "Lakshmi Nurisng Home, Vijayawada"
+        },
+        {
+            "location": "17.4613134, 78.501831",
+            "hospital": "Nagarjuna Hospital"
+        },
+        {
+            "location": "16.495035, 80.6618234",
+            "hospital": "Padmavathi Hospital Mother and Child Care Cntre"
+        },
+        {
+            "location": "16.5089355, 80.6385881",
+            "hospital": "Raja Nursing Home"
+        },
+        {
+            "location": "11.1117615, 78.0064244",
+            "hospital": "Rameeza Orthopaedic Centre"
+        },
+        {
+            "location": "16.512371, 80.6305434",
+            "hospital": "Royal Hospitals"
+        },
+        {
+            "location": "16.495035, 80.6618234",
+            "hospital": "Santhi Nursing Home"
+        },
+        {
+            "location": "16.4901229, 80.6649874",
+            "hospital": "Sowmya Hospital"
+        },
+        {
+            "location": "16.5305709, 80.6124399",
+            "hospital": "Sree Jayalakshmi Nursing Home"
+        },
+        {
+            "location": "16.5089964, 80.6462427",
+            "hospital": "Sree Venkateswara Nursing Home"
+        },
+        {
+            "location": "16.5089355, 80.6385881",
+            "hospital": "The Orthopaedic Nursing Home"
+        },
+        {
+            "location": "16.4978178, 80.6590649",
+            "hospital": "The Pujitha Hospital"
+        },
+        {
+            "location": "16.4980034, 80.6539771",
+            "hospital": "Trust Hospital"
+        },
+        {
+            "location": "16.4989734, 80.6521139",
+            "hospital": "Usha Cardiac Centre Ltd"
+        },
+        {
+            "location": "16.4997252, 80.6560636",
+            "hospital": "Vasavya Nursing Home"
+        },
+        {
+            "location": "16.5115334, 80.6396287",
+            "hospital": "Vijaya Durga Nursing Home"
+        },
+        {
+            "location": "16.5196022, 80.6895583",
+            "hospital": "Life Spring Hospitals"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Yakkala Jyothi Hospital"
+        },
+        {
+            "location": "16.5466706, 80.6491183",
+            "hospital": "Chikitsa General Hospital"
+        },
+        {
+            "location": "16.537776, 80.6396287",
+            "hospital": "St Anns Health Center"
+        },
+        {
+            "location": "16.1905457, 81.1361543",
+            "hospital": "Balaji Nursing Home"
+        },
+        {
+            "location": "16.1905457, 81.1361543",
+            "hospital": "Shree Rajeevi Nursing Home"
+        },
+        {
+            "location": "21.203796, 72.7900049",
+            "hospital": "Shri Madhu Hospitals"
+        },
+        {
+            "location": "16.1754576, 81.1247434",
+            "hospital": "Sri Madhu Hospital"
+        },
+        {
+            "location": "16.1905457, 81.1361543",
+            "hospital": "Srinivasa Nursing Home"
+        },
+        {
+            "location": "16.1905457, 81.1361543",
+            "hospital": "Vani Hospitals"
+        },
+        {
+            "location": "16.1898382, 81.1362668",
+            "hospital": "Varadarajula Memorial Eye Hospital"
+        },
+        {
+            "location": "16.1905457, 81.1361543",
+            "hospital": "Venkatrama Nursing Home"
+        },
+        {
+            "location": "16.5196022, 80.6895583",
+            "hospital": "Life Spring Hospital"
+        },
+        {
+            "location": "15.9455478, 80.9180086",
+            "hospital": "Rama Nursing Home"
+        },
+        {
+            "location": "16.1285923, 80.9664408",
+            "hospital": "Padmavathi Hospital"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Boppana Superspeciality Hospital"
+        },
+        {
+            "location": "16.8455916, 77.4786965",
+            "hospital": "Bhargavi Nursing Home"
+        },
+        {
+            "location": "16.3689549, 80.8441914",
+            "hospital": "Rotary Eye Hospital"
+        },
+        {
+            "location": "16.3689549, 80.8441914",
+            "hospital": "Samat Nursing Home"
+        },
+        {
+            "location": "16.3689549, 80.8441914",
+            "hospital": "Usha Nursing Home"
+        },
+        {
+            "location": "16.7725089, 80.285935",
+            "hospital": "Kranthi Hospital"
+        },
+        {
+            "location": "16.7849906, 80.8488498",
+            "hospital": "Sailaja Nursing Home"
+        },
+        {
+            "location": "16.5451142, 80.6452525",
+            "hospital": "Praja Hospital"
+        },
+        {
+            "location": "16.6209149, 80.5413043",
+            "hospital": "Dr Mohanarao Memorial Super Speciality Hospital"
+        },
+        {
+            "location": "16.6209149, 80.5413043",
+            "hospital": "Matha Nursing Home"
+        },
+        {
+            "location": "12.3287999, 76.6611452",
+            "hospital": "Padmavathi Hospitals"
+        },
+        {
+            "location": "16.4410255, 80.9926327",
+            "hospital": "Sacred Heart Hospital"
+        },
+        {
+            "location": "16.7106604, 81.0952431",
+            "hospital": "Shreerama Nursing Home"
+        },
+        {
+            "location": "16.4410255, 80.9926327",
+            "hospital": "Sri Venkateswara Nursing Home"
+        },
+        {
+            "location": "16.7106604, 81.0952431",
+            "hospital": "Uma Childrens Hospital"
+        },
+        {
+            "location": "16.5527225, 81.2129365",
+            "hospital": "Kamineni Hospital"
+        },
+        {
+            "location": "16.348665, 81.0492446",
+            "hospital": "Lakshmi Nursing Home"
+        },
+        {
+            "location": "15.8072358, 78.0399391",
+            "hospital": "C N Hospitals"
+        },
+        {
+            "location": "15.8281257, 78.0372792",
+            "hospital": "Dr.Bethune Nursing Home"
+        },
+        {
+            "location": "15.8281257, 78.0372792",
+            "hospital": "K M Hospital"
+        },
+        {
+            "location": "15.8336503, 78.0414767",
+            "hospital": "M.H Hospital"
+        },
+        {
+            "location": "15.356825, 78.3639765",
+            "hospital": "Murthy Ortho Hospital"
+        },
+        {
+            "location": "15.8351173, 78.0516415",
+            "hospital": "New Balaji Super Speciality Hospital"
+        },
+        {
+            "location": "15.8215242, 78.0138011",
+            "hospital": "Sri Raja Raghavendra Nursing Home"
+        },
+        {
+            "location": "15.8115157, 78.059154",
+            "hospital": "Sri Vamsi Krishna Hospital"
+        },
+        {
+            "location": "15.8351173, 78.0516415",
+            "hospital": "St. Theresa Hospital"
+        },
+        {
+            "location": "15.8281257, 78.0372792",
+            "hospital": "Vijaya Super Speciality Hospital"
+        },
+        {
+            "location": "15.8281257, 78.0372792",
+            "hospital": "Adithya Test Tube Baby Centre"
+        },
+        {
+            "location": "15.8281257, 78.0372792",
+            "hospital": "Amma Hospital"
+        },
+        {
+            "location": "15.8206219, 78.0403284",
+            "hospital": "Gowri Gopal Hospital Pvt Ltd"
+        },
+        {
+            "location": "15.8281257, 78.0372792",
+            "hospital": "Kurnool Heart and Brain Centre"
+        },
+        {
+            "location": "15.8281257, 78.0372792",
+            "hospital": "Modern Eye Hospital and Research Centre"
+        },
+        {
+            "location": "15.4785694, 78.4830934",
+            "hospital": "R V Hospital"
+        },
+        {
+            "location": "20.9417146, 86.123971",
+            "hospital": "Sree Aswini Hospital"
+        },
+        {
+            "location": "15.8272826, 78.047005",
+            "hospital": "Sri Vijaya Durga Cardiac Centre"
+        },
+        {
+            "location": "15.8272826, 78.047005",
+            "hospital": "Suseela Netralaya and Maternity Hospital"
+        },
+        {
+            "location": "15.8038136, 78.0571178",
+            "hospital": "Vijaya Hospital"
+        },
+        {
+            "location": "15.812699, 78.0380075",
+            "hospital": "Viswa Bharathi Super Speciality Hospital"
+        },
+        {
+            "location": "15.8281257, 78.0372792",
+            "hospital": "Aayushman The Family Hospital"
+        },
+        {
+            "location": "15.8281257, 78.0372792",
+            "hospital": "Padma Chandra Super Speciality Hospital"
+        },
+        {
+            "location": "15.8351173, 78.0516415",
+            "hospital": "Balaji Hospital-Kurnool"
+        },
+        {
+            "location": "15.8314596, 78.0369298",
+            "hospital": "Bangalore Super-Speciality Hospital"
+        },
+        {
+            "location": "15.8281257, 78.0372792",
+            "hospital": "Deepak Tej Hospital"
+        },
+        {
+            "location": "15.8281257, 78.0372792",
+            "hospital": "Gvr Hospitals"
+        },
+        {
+            "location": "15.8351173, 78.0516415",
+            "hospital": "Karthik Hospital"
+        },
+        {
+            "location": "15.8319034, 78.0351284",
+            "hospital": "Rainbow Institute Of Child Health and Maternity Hosp"
+        },
+        {
+            "location": "15.8351173, 78.0516415",
+            "hospital": "Saraswathi Nursing Home"
+        },
+        {
+            "location": "15.8351173, 78.0516415",
+            "hospital": "Sri New Balaji Super Speciality Hospital"
+        },
+        {
+            "location": "12.5186113, 78.2137365",
+            "hospital": "Tcr Multispeciality Hospital"
+        },
+        {
+            "location": "19.0875717, 72.9126514",
+            "hospital": "Desai Nursing Home"
+        },
+        {
+            "location": "12.9818806, 77.6423594",
+            "hospital": "Krishna Hospital"
+        },
+        {
+            "location": "15.6322227, 77.2728368",
+            "hospital": "Aditya Nursing Home"
+        },
+        {
+            "location": "15.7961133, 78.0593706",
+            "hospital": "Anasuya Child Hospital"
+        },
+        {
+            "location": "15.8790417, 78.5852609",
+            "hospital": "Saranya Nursing Home"
+        },
+        {
+            "location": "13.3857837, 79.7988547",
+            "hospital": "Vishwa Bharati Cancer Hospital"
+        },
+        {
+            "location": "15.4890703, 78.4836228",
+            "hospital": "Gelvi Nursing Home"
+        },
+        {
+            "location": "17.449023, 78.534885",
+            "hospital": "Gupta Hospital, Nandyal"
+        },
+        {
+            "location": "15.4785694, 78.4830934",
+            "hospital": "Kvr Hospital"
+        },
+        {
+            "location": "15.4785694, 78.4830934",
+            "hospital": "Madhumani Nursing Home"
+        },
+        {
+            "location": "15.4830623, 78.4854947",
+            "hospital": "Murali Hospital"
+        },
+        {
+            "location": "15.4785694, 78.4830934",
+            "hospital": "Narmada Nursing Home"
+        },
+        {
+            "location": "15.4785694, 78.4830934",
+            "hospital": "Nayana Eye Care and Research"
+        },
+        {
+            "location": "15.4785694, 78.4830934",
+            "hospital": "R R Hospital"
+        },
+        {
+            "location": "15.4785694, 78.4830934",
+            "hospital": "S.V.D. Nursing Home"
+        },
+        {
+            "location": "15.4842046, 78.4834479",
+            "hospital": "Sanjeevini Nrsing Home"
+        },
+        {
+            "location": "15.4785694, 78.4830934",
+            "hospital": "Shantharam General Hospital"
+        },
+        {
+            "location": "15.4785694, 78.4830934",
+            "hospital": "Sree Durga Nursing Home"
+        },
+        {
+            "location": "15.4830623, 78.4854947",
+            "hospital": "Sri Balaji Nursing Home"
+        },
+        {
+            "location": "15.4785694, 78.4830934",
+            "hospital": "Swami Super Speciality Netralayam And Skin Care Centre"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Anasuya Institute Medical Sciences"
+        },
+        {
+            "location": "13.0320585, 80.1366009",
+            "hospital": "Aravind Kidney Centre"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Bhaskar Reddy Hospital"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Dr Andals Lakshmi Fertility Research and Laparoscopic Surgical Centre"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Dr P Madhusudhana Sastry Hospital"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Dr.P.V.Ramchandra Reddys Peoples Polyclinic"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Guram Chilren Hospital"
+        },
+        {
+            "location": "14.4533977, 79.9836108",
+            "hospital": "Lakshmi Fertility Research and Laparoscopic Surgical Center"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Lalitha Hebbar Nursing Home"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Latha Matrnity and Children Hospital"
+        },
+        {
+            "location": "14.4483939, 79.9843099",
+            "hospital": "Madurai Netralaya"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Modern Eye Hospital And Research Centre"
+        },
+        {
+            "location": "13.0821587, 80.1686614",
+            "hospital": "Nizams Little Star Children Hospital"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "R K Eye Care Center"
+        },
+        {
+            "location": "14.4483939, 79.9843099",
+            "hospital": "R.S.R.Hospital"
+        },
+        {
+            "location": "14.4506929, 79.9862656",
+            "hospital": "Ramakrishna Diabetes Research Center"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Rich Hospitals"
+        },
+        {
+            "location": "14.4506929, 79.9862656",
+            "hospital": "Sireeha Netralaya"
+        },
+        {
+            "location": "13.632021, 79.4141978",
+            "hospital": "Sri Ramachandra Nursing Home"
+        },
+        {
+            "location": "28.693808, 77.3349982",
+            "hospital": "Sri Ratnam Hospital"
+        },
+        {
+            "location": "14.4501074, 79.9859957",
+            "hospital": "Susrutha Uro Renal Hospital"
+        },
+        {
+            "location": "14.4483939, 79.9843099",
+            "hospital": "Thanuja Maternity Hospital"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Vasan Eye Care Hospital"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Venkataramana Hospital"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Viajya Hospital (A Unit Of Vijaya Krishna Hospitals Pvt Ltd)"
+        },
+        {
+            "location": "14.4501074, 79.9859957",
+            "hospital": "Vijaya Hospital"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Narayana General Hospital And Super Speciality Hospital"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Bolleneni Super Speciality Hospital"
+        },
+        {
+            "location": "14.4475899, 79.9801671",
+            "hospital": "Kavitha Nursing Home"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Vaishnavi Clinic"
+        },
+        {
+            "location": "17.6441503, 81.6829431",
+            "hospital": "C.R. Reddy Hospital"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Mydhili Hospital"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Shar Hospital"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Seshama Naidu Hospital"
+        },
+        {
+            "location": "13.9559395, 79.5815375",
+            "hospital": "Sri Sadana Nursing Home"
+        },
+        {
+            "location": "17.6574908, 79.432224",
+            "hospital": "Srinivasa Nursing Home"
+        },
+        {
+            "location": "27.376358, -81.410526",
+            "hospital": "Vamsi Nursing Home"
+        },
+        {
+            "location": "14.912581, 79.9900693",
+            "hospital": "Aravind Eye and Diabetes Clinic"
+        },
+        {
+            "location": "15.6269153, 77.2732213",
+            "hospital": "Ravi Nursing Home"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "K.M. Hospital"
+        },
+        {
+            "location": "14.4425987, 79.986456",
+            "hospital": "Dr Bsr Hospital"
+        },
+        {
+            "location": "15.5057232, 80.049922",
+            "hospital": "Amma Eye Hospital Ongole"
+        },
+        {
+            "location": "15.5129969, 80.0404447",
+            "hospital": "Aravind Eye Hospital"
+        },
+        {
+            "location": "15.511269, 80.0398918",
+            "hospital": "G S R Hospital"
+        },
+        {
+            "location": "15.497106, 80.0548894",
+            "hospital": "K V Nursing Home"
+        },
+        {
+            "location": "15.497106, 80.0548894",
+            "hospital": "Kommalapati Veeraiah Nursing Home"
+        },
+        {
+            "location": "15.511333, 80.0412671",
+            "hospital": "Mps Memorial Hospital"
+        },
+        {
+            "location": "15.5048412, 80.0516895",
+            "hospital": "Nalluri Nursing Home"
+        },
+        {
+            "location": "14.4422571, 79.9770784",
+            "hospital": "Prasad Vydyasala"
+        },
+        {
+            "location": "21.2530873, 81.6311991",
+            "hospital": "Rambabu Hospital"
+        },
+        {
+            "location": "15.511333, 80.0412671",
+            "hospital": "Ravi Mother and Child Hospital"
+        },
+        {
+            "location": "15.5057232, 80.049922",
+            "hospital": "Samata Hospital Orthopaedic and Maternity Hospiital"
+        },
+        {
+            "location": "15.5057232, 80.049922",
+            "hospital": "Sanghamitra Hospital Pvt Ltd"
+        },
+        {
+            "location": "15.5057232, 80.049922",
+            "hospital": "Vijaya Hospital"
+        },
+        {
+            "location": "15.5141463, 80.0438555",
+            "hospital": "Yamini Eye Care - Prakasam"
+        },
+        {
+            "location": "17.0636719, 78.4886912",
+            "hospital": "Ajmal Nursing Home"
+        },
+        {
+            "location": "15.5057232, 80.049922",
+            "hospital": "Amrutha Heart Hospital"
+        },
+        {
+            "location": "15.5057232, 80.049922",
+            "hospital": "Aneesh Kidney Centre"
+        },
+        {
+            "location": "15.511269, 80.0398918",
+            "hospital": "Bharathi Nursing Home"
+        },
+        {
+            "location": "15.5129969, 80.0404447",
+            "hospital": "Devi Hospital"
+        },
+        {
+            "location": "15.5106771, 80.0374627",
+            "hospital": "Durga Nursing Home- Anjaiah Road"
+        },
+        {
+            "location": "15.5057232, 80.049922",
+            "hospital": "Pranathi Neuro Speciality Hospital"
+        },
+        {
+            "location": "15.511269, 80.0398918",
+            "hospital": "Sai Nursing Home"
+        },
+        {
+            "location": "15.511333, 80.0412671",
+            "hospital": "Sevita Nursing Home"
+        },
+        {
+            "location": "15.5141463, 80.0438555",
+            "hospital": "Sri Lakshmi Nursing Home"
+        },
+        {
+            "location": "15.5129969, 80.0404447",
+            "hospital": "Srinivasa Hospital"
+        },
+        {
+            "location": "15.8281257, 78.0372792",
+            "hospital": "Venkata Ramana Nursing Home"
+        },
+        {
+            "location": "15.2500044, 80.0212291",
+            "hospital": "Pragathi Nursing Home"
+        },
+        {
+            "location": "17.0636719, 78.4886912",
+            "hospital": "Dr Kotareddy Hospitals"
+        },
+        {
+            "location": "17.0636719, 78.4886912",
+            "hospital": "Harini Peoples Clinic"
+        },
+        {
+            "location": "15.8423622, 80.3491599",
+            "hospital": "Prema Hospital"
+        },
+        {
+            "location": "15.830545, 80.3558369",
+            "hospital": "Ravi Nursing Home"
+        },
+        {
+            "location": "15.8423622, 80.3491599",
+            "hospital": "Solomon Nursing Home [Chirala]"
+        },
+        {
+            "location": "18.3891036, 78.8111168",
+            "hospital": "Sree Sai Childrens Hospital"
+        },
+        {
+            "location": "15.8135755, 80.3547286",
+            "hospital": "Sri Saraswathi Nursing Home"
+        },
+        {
+            "location": "15.8246833, 80.3608605",
+            "hospital": "G.K.M. Nursing Home"
+        },
+        {
+            "location": "15.8135755, 80.3547286",
+            "hospital": "Vijaya Nursing Home"
+        },
+        {
+            "location": "15.8083865, 79.8868552",
+            "hospital": "Jhansi Nursing Home"
+        },
+        {
+            "location": "15.3431014, 80.0302516",
+            "hospital": "Sreenivasa Multi Speciality Hospital"
+        },
+        {
+            "location": "15.5898209, 79.1125135",
+            "hospital": "Sri Lakshmi Mallikarjuna Gastro and Laproscopy Centre"
+        },
+        {
+            "location": "15.3763583, 78.9250862",
+            "hospital": "Bandaru Rangayya Yadav Memorial Trust Association"
+        },
+        {
+            "location": "18.2991263, 83.8947235",
+            "hospital": "Amma Hospital"
+        },
+        {
+            "location": "18.3044903, 83.8830523",
+            "hospital": "Amrutha Hospital"
+        },
+        {
+            "location": "18.3072486, 83.8964979",
+            "hospital": "Deepa Nursing Home"
+        },
+        {
+            "location": "18.4555839, 83.6493806",
+            "hospital": "Gmr Varalaxmi Care Hospital"
+        },
+        {
+            "location": "18.7980888, 84.3899317",
+            "hospital": "K C Eye Hospital"
+        },
+        {
+            "location": "18.2890868, 83.9055997",
+            "hospital": "Kims Sai Seshadri Hospital"
+        },
+        {
+            "location": "18.2890868, 83.9055997",
+            "hospital": "Krishna Nursing Home"
+        },
+        {
+            "location": "18.2969747, 83.8967813",
+            "hospital": "Mgm Hospital"
+        },
+        {
+            "location": "18.3148007, 83.8946364",
+            "hospital": "Pavani Nursing Home"
+        },
+        {
+            "location": "18.2969747, 83.8967813",
+            "hospital": "Sanjeevini Hospital"
+        },
+        {
+            "location": "18.2890868, 83.9055997",
+            "hospital": "Santhi Nursing Home"
+        },
+        {
+            "location": "18.1836024, 83.7813181",
+            "hospital": "Sarojini Devi Hospital"
+        },
+        {
+            "location": "18.3051535, 83.8904518",
+            "hospital": "Sindhura Hospitals"
+        },
+        {
+            "location": "18.2936806, 83.8962459",
+            "hospital": "Vijaya Harsha Mother And Child Hospital"
+        },
+        {
+            "location": "18.2969747, 83.8967813",
+            "hospital": "Vijaya Surgical Speciality Hospital"
+        },
+        {
+            "location": "18.2969747, 83.8967813",
+            "hospital": "Sri Srinivasa Nursing Home"
+        },
+        {
+            "location": "18.6041438, 84.2378613",
+            "hospital": "Sri Sathya Sai Medical Center"
+        },
+        {
+            "location": "23.2156354, 72.6369415",
+            "hospital": "Sitarama Nursing Home"
+        },
+        {
+            "location": "18.2969747, 83.8967813",
+            "hospital": "Sri Rajeshwari Nursing Home"
+        },
+        {
+            "location": "18.9456083, 84.582481",
+            "hospital": "Arogyavaram Eye Hospital and Contact Lens Clinic"
+        },
+        {
+            "location": "18.9456083, 84.582481",
+            "hospital": "Mahalaxmi Nursing Home"
+        },
+        {
+            "location": "18.2969747, 83.8967813",
+            "hospital": "Revatirupathi Hospital"
+        },
+        {
+            "location": "18.2969747, 83.8967813",
+            "hospital": "Srinivas Nursing Home"
+        },
+        {
+            "location": "18.2969747, 83.8967813",
+            "hospital": "Susrutha Nursing Home"
+        },
+        {
+            "location": "18.4163638, 84.0459255",
+            "hospital": "Bharat Speciality Hospital"
+        },
+        {
+            "location": "18.2969747, 83.8967813",
+            "hospital": "Vaatsalya Hospital"
+        },
+        {
+            "location": "18.2969747, 83.8967813",
+            "hospital": "Sri Srinivasa Nursing Home"
+        },
+        {
+            "location": "18.6994536, 83.607618",
+            "hospital": "Canossa Hospital"
+        },
+        {
+            "location": "17.6868159, 83.2184815",
+            "hospital": "Sraddha Hospital"
+        },
+        {
+            "location": "17.6868159, 83.2184815",
+            "hospital": "T.Narayana Rao"
+        },
+        {
+            "location": "17.6345641, 83.1970511",
+            "hospital": "Visakhapatnam Steel General Hospital"
+        },
+        {
+            "location": "17.6854046, 83.1499439",
+            "hospital": "Abhaya Critical Care"
+        },
+        {
+            "location": "17.7060613, 83.3091096",
+            "hospital": "Apex Hospital"
+        },
+        {
+            "location": "17.7106864, 83.313465",
+            "hospital": "Bharathi Hospital"
+        },
+        {
+            "location": "17.6868159, 83.2184815",
+            "hospital": "C.S.R. Hospital"
+        },
+        {
+            "location": "17.7086746, 83.3069937",
+            "hospital": "Care Hospital - Maharanipet"
+        },
+        {
+            "location": "17.7243064, 83.3195085",
+            "hospital": "City Care Hospital"
+        },
+        {
+            "location": "17.7106864, 83.313465",
+            "hospital": "Genesis Children Hospital"
+        },
+        {
+            "location": "17.7104053, 83.3032966",
+            "hospital": "Indus Hospitals"
+        },
+        {
+            "location": "17.7121136, 83.3121281",
+            "hospital": "Kanakadurga Hospitals Pvt Ltd"
+        },
+        {
+            "location": "17.6868159, 83.2184815",
+            "hospital": "King George Hospital"
+        },
+        {
+            "location": "17.708364, 83.3101227",
+            "hospital": "Krishna Hospital - Visakhapatnam"
+        },
+        {
+            "location": "17.7189912, 83.3113226",
+            "hospital": "Lazarus Hospitals Ltd"
+        },
+        {
+            "location": "17.7103892, 83.3032894",
+            "hospital": "Manipal Hospital"
+        },
+        {
+            "location": "17.7064519, 83.3111737",
+            "hospital": "Mythri Nursing Home"
+        },
+        {
+            "location": "30.6935584, 76.2243708",
+            "hospital": "R.K. Children's Hospital"
+        },
+        {
+            "location": "17.7106864, 83.313465",
+            "hospital": "Rk Children Hospital and Perinatal Centre"
+        },
+        {
+            "location": "17.708364, 83.3101227",
+            "hospital": "Sagara Durga Hospital"
+        },
+        {
+            "location": "17.7106864, 83.313465",
+            "hospital": "Samudra Hospitals"
+        },
+        {
+            "location": "17.6868159, 83.2184815",
+            "hospital": "Saryu Multicare Hospital"
+        },
+        {
+            "location": "17.8250952, 83.3538012",
+            "hospital": "Sevenhills Hospital Ltd."
+        },
+        {
+            "location": "17.6868159, 83.2184815",
+            "hospital": "Shri Venkataramana Hospital"
+        },
+        {
+            "location": "17.708364, 83.3101227",
+            "hospital": "Simhadri Hospital"
+        },
+        {
+            "location": "17.708364, 83.3101227",
+            "hospital": "Sri Sagara Durga Medicals"
+        },
+        {
+            "location": "28.656668, 77.277813",
+            "hospital": "Sri Venkataramana Hospital"
+        },
+        {
+            "location": "17.6868159, 83.2184815",
+            "hospital": "St. Joseph's Hospital"
+        },
+        {
+            "location": "17.6917856, 83.0110222",
+            "hospital": "Vijaya Medical Centre"
+        },
+        {
+            "location": "17.7106864, 83.313465",
+            "hospital": "Vijetha Hospital"
+        },
+        {
+            "location": "17.7243064, 83.3195085",
+            "hospital": "Apollo Heart Hospital"
+        },
+        {
+            "location": "17.7261263, 83.3127965",
+            "hospital": "Free Polio Surgical and Research Foundation"
+        },
+        {
+            "location": "17.7261263, 83.3127965",
+            "hospital": "Visakha Ent Hospital"
+        },
+        {
+            "location": "17.7358253, 83.2733459",
+            "hospital": "Dr Rama Rao Hospital"
+        },
+        {
+            "location": "17.7161599, 83.2743683",
+            "hospital": "Kothagiri Surya Nursing Home"
+        },
+        {
+            "location": "17.7327968, 83.2729372",
+            "hospital": "Sri Chakra Multi Speciality Hospitals Pvt Ltd"
+        },
+        {
+            "location": "17.7358253, 83.2733459",
+            "hospital": "Sun Multi Speciality Hospital"
+        },
+        {
+            "location": "17.6854667, 83.2432403",
+            "hospital": "St.Ann's Jubilee Memorial Hospital"
+        },
+        {
+            "location": "17.7429942, 83.3107911",
+            "hospital": "Cancer Treatment and Research Center"
+        },
+        {
+            "location": "17.7155773, 83.1983904",
+            "hospital": "Krishi Trust Hospital"
+        },
+        {
+            "location": "17.7429942, 83.3107911",
+            "hospital": "Padmaja Hospital"
+        },
+        {
+            "location": "17.7399576, 83.3081172",
+            "hospital": "Rama Hospitals"
+        },
+        {
+            "location": "17.7383557, 83.3015401",
+            "hospital": "Suma Maternity Home"
+        },
+        {
+            "location": "17.7157248, 83.30336",
+            "hospital": "The Good Samaritan Homoeo Hospital"
+        },
+        {
+            "location": "17.7403423, 83.3363752",
+            "hospital": "Dj Clinic"
+        },
+        {
+            "location": "17.7275674, 83.304323",
+            "hospital": "Annapoorna Hospital"
+        },
+        {
+            "location": "17.7325733, 83.3070106",
+            "hospital": "Anupama Surgical And Children Hospital"
+        },
+        {
+            "location": "17.7294211, 83.3014319",
+            "hospital": "Apoorva Hospital"
+        },
+        {
+            "location": "17.7325733, 83.3070106",
+            "hospital": "Good Health New Central Hospital"
+        },
+        {
+            "location": "17.7267078, 83.3050654",
+            "hospital": "Kala Hospitals Pvt Ltd"
+        },
+        {
+            "location": "17.7270279, 83.3045827",
+            "hospital": "Maxivision Laser Centre Pvt Ltd"
+        },
+        {
+            "location": "17.4965865, 78.4264125",
+            "hospital": "Navya Hospital"
+        },
+        {
+            "location": "17.6868159, 83.2184815",
+            "hospital": "Padmasri Hospital    Vishakhapatnam"
+        },
+        {
+            "location": "16.5021357, 80.6307606",
+            "hospital": "Sai Spoorthy Hospital"
+        },
+        {
+            "location": "17.7307042, 83.308702",
+            "hospital": "Venkatarama Hospital"
+        },
+        {
+            "location": "17.727823, 83.2954313",
+            "hospital": "Vision Care Center( Super Speciality Eye Hospital )"
+        },
+        {
+            "location": "17.7439487, 83.2779581",
+            "hospital": "Mahama Gandhi Cancer Hospital and Research Institut"
+        },
+        {
+            "location": "17.7416705, 83.3368562",
+            "hospital": "Mvp Hospital"
+        },
+        {
+            "location": "17.7440099, 83.3298397",
+            "hospital": "Sanjivi Hospital"
+        },
+        {
+            "location": "17.7368076, 83.3073078",
+            "hospital": "Uma Polyclinc and Hospital"
+        },
+        {
+            "location": "17.7424749, 83.3388608",
+            "hospital": "Vijaya Hospital"
+        },
+        {
+            "location": "17.7220273, 83.2897309",
+            "hospital": "Waltair Multicare Hospital"
+        },
+        {
+            "location": "17.7406972, 83.2450152",
+            "hospital": "Kamala Nursing Home"
+        },
+        {
+            "location": "17.6868159, 83.2184815",
+            "hospital": "Care Hospitals"
+        },
+        {
+            "location": "17.6810024, 83.19906",
+            "hospital": "Gajuwaka Hospital P Ltd"
+        },
+        {
+            "location": "17.7429942, 83.3107911",
+            "hospital": "Lion Dist 324 C, Cancer Treatment and Research Center"
+        },
+        {
+            "location": "17.7199774, 83.2971493",
+            "hospital": "Prabha Clinic and Nursing Home"
+        },
+        {
+            "location": "17.6881121, 83.2131206",
+            "hospital": "Amrutha Nursing Home Private Limited"
+        },
+        {
+            "location": "17.6818851, 83.2052985",
+            "hospital": "Gowtami Hospital"
+        },
+        {
+            "location": "17.6864269, 83.2028941",
+            "hospital": "Padmaja Hospital"
+        },
+        {
+            "location": "17.6795545, 83.199388",
+            "hospital": "R K Hospital: Gajuwaka Hospitals (P) Ltd. - Visakhapatnam"
+        },
+        {
+            "location": "17.6881121, 83.2131206",
+            "hospital": "Sri Rama Hospital"
+        },
+        {
+            "location": "17.669605, 83.1993948",
+            "hospital": "Sujatha Hospital"
+        },
+        {
+            "location": "17.6881121, 83.2131206",
+            "hospital": "Susruta Hospital"
+        },
+        {
+            "location": "17.7479751, 83.2179139",
+            "hospital": "Satyam Intensive Care and Trauma Centre"
+        },
+        {
+            "location": "17.7532401, 83.216954",
+            "hospital": "Sr Hospital"
+        },
+        {
+            "location": "17.6868159, 83.2184815",
+            "hospital": "L V Prasad Eye Institute Vishakapatnam"
+        },
+        {
+            "location": "17.7666503, 83.313465",
+            "hospital": "Sai Satya Hospital"
+        },
+        {
+            "location": "13.394047, 79.557183",
+            "hospital": "Sankar Foundation Eye Hospital"
+        },
+        {
+            "location": "17.6868159, 83.2184815",
+            "hospital": "Annapoorna Babycare and General Hospital"
+        },
+        {
+            "location": "28.4665261, 77.0190628",
+            "hospital": "Aswini Clinic, Maternity and Nursing Home"
+        },
+        {
+            "location": "17.6854505, 83.0071914",
+            "hospital": "Ramyasai Nursing Home"
+        },
+        {
+            "location": "17.6896439, 83.0023548",
+            "hospital": "Vijaya Hospital"
+        },
+        {
+            "location": "17.6868159, 83.2184815",
+            "hospital": "Gayatri Nursing Home"
+        },
+        {
+            "location": "17.6895915, 82.9977331",
+            "hospital": "Venkatarama Hospital"
+        },
+        {
+            "location": "17.9168233, 82.8142389",
+            "hospital": "St.Ann's Hospital"
+        },
+        {
+            "location": "17.8237185, 83.3455422",
+            "hospital": "Sunitha Nursing Home"
+        },
+        {
+            "location": "17.7429942, 83.3107911",
+            "hospital": "Amg Hospital"
+        },
+        {
+            "location": "17.7429942, 83.3107911",
+            "hospital": "Sunita Nursing Home"
+        },
+        {
+            "location": "17.6411426, 82.6711472",
+            "hospital": "Sri Lalitha Nursing Home"
+        },
+        {
+            "location": "17.6868159, 83.2184815",
+            "hospital": "Sri Subrahmanyam Nursing Home"
+        },
+        {
+            "location": "18.1066576, 83.3955506",
+            "hospital": "Krishna Nursing Home"
+        },
+        {
+            "location": "18.3044903, 83.8830523",
+            "hospital": "Radha Krishna Nursing Home"
+        },
+        {
+            "location": "18.1066576, 83.3955506",
+            "hospital": "Sri Sathya Day and Night Hospital"
+        },
+        {
+            "location": "18.1066576, 83.3955506",
+            "hospital": "Venkata Rama Hospital"
+        },
+        {
+            "location": "18.1124061, 83.4112908",
+            "hospital": "Andhra Children Hospital"
+        },
+        {
+            "location": "40.1173322, -83.7508718",
+            "hospital": "Jyothi Nursing Home"
+        },
+        {
+            "location": "24.4994138, 54.3692082",
+            "hospital": "Vaatsalya Hospital"
+        },
+        {
+            "location": "18.1226797, 83.4023063",
+            "hospital": "Vamsi Nursing Home"
+        },
+        {
+            "location": "-32.9354764, 151.7714786",
+            "hospital": "Venkata Padma Hospital"
+        },
+        {
+            "location": "30.5971118, -87.3640264",
+            "hospital": "Shalom Medical Centre"
+        },
+        {
+            "location": "17.0011607, 81.7894713",
+            "hospital": "Sri Sai Super Speciality Hospital"
+        },
+        {
+            "location": "18.1066576, 83.3955506",
+            "hospital": "Uday Nursing Home"
+        },
+        {
+            "location": "18.1066576, 83.3955506",
+            "hospital": "O.E.U.Lions Eye Hospital"
+        },
+        {
+            "location": "18.164904, 83.4510164",
+            "hospital": "Maharajahs Institute Of Medical Sciences"
+        },
+        {
+            "location": "18.7793178, 83.4257009",
+            "hospital": "Jayasree Hospital"
+        },
+        {
+            "location": "18.7793178, 83.4257009",
+            "hospital": "Karshaka Maharshi Hospital"
+        },
+        {
+            "location": "18.7817162, 83.4267518",
+            "hospital": "Sri Krishna Nursing Home"
+        },
+        {
+            "location": "11.5354658, 79.3193142",
+            "hospital": "Sri Hanuman Children Hospital"
+        },
+        {
+            "location": "18.5735047, 83.3583654",
+            "hospital": "Sri Ramakrishna Clinic and Nursing Home"
+        },
+        {
+            "location": "18.5163848, 83.2050863",
+            "hospital": "Sai Ramya Nursing Home"
+        },
+        {
+            "location": "15.8305876, 78.0419049",
+            "hospital": "Prashanti Hospitals Uro Gyneac Infertility Centre"
+        },
+        {
+            "location": "16.8660694, 96.195132",
+            "hospital": "Mother Child Hospital"
+        },
+        {
+            "location": "16.7135229, 81.1009882",
+            "hospital": "Sankara Netra Chikitsalaya"
+        },
+        {
+            "location": "16.7106604, 81.0952431",
+            "hospital": "Sri Sai Madhavi Hospital"
+        },
+        {
+            "location": "16.7106604, 81.0952431",
+            "hospital": "Sri Venkateswara Nursing Home"
+        },
+        {
+            "location": "16.7106604, 81.0952431",
+            "hospital": "Swaruparani Nursing Home - Eluru"
+        },
+        {
+            "location": "16.7571731, 81.6799629",
+            "hospital": "Vamsi High Tech Super Speciality Hospital"
+        },
+        {
+            "location": "16.7135229, 81.1009882",
+            "hospital": "Vijaya Hospital, Eluru"
+        },
+        {
+            "location": "16.7106604, 81.0952431",
+            "hospital": "Yasoda Hospital"
+        },
+        {
+            "location": "16.7269791, 81.1251235",
+            "hospital": "Asram Hospital (Alluri Sita Rama Raju Academy Of Medical Sceinces)"
+        },
+        {
+            "location": "16.7106604, 81.0952431",
+            "hospital": "Asrims Hospital"
+        },
+        {
+            "location": "16.7093893, 81.115011",
+            "hospital": "Kay Vee Hospital"
+        },
+        {
+            "location": "16.7106609, 81.1007906",
+            "hospital": "Shri Krishna Mother and Child Hospital"
+        },
+        {
+            "location": "16.8127061, 81.5280872",
+            "hospital": "Indira Devi Memorial Nursing Home"
+        },
+        {
+            "location": "16.8138415, 81.521241",
+            "hospital": "Mother Vannini Hospital"
+        },
+        {
+            "location": "16.8138415, 81.521241",
+            "hospital": "Prasad Hospitals"
+        },
+        {
+            "location": "16.8138415, 81.521241",
+            "hospital": "Sri Venkateswara Netralaya"
+        },
+        {
+            "location": "16.8138415, 81.521241",
+            "hospital": "Veenus Nursing Home"
+        },
+        {
+            "location": "16.8138415, 81.521241",
+            "hospital": "Ch. Varalakshmi Nursing Home"
+        },
+        {
+            "location": "16.0651513, 79.9822126",
+            "hospital": "Sri Venkata Ramana Nursing Home"
+        },
+        {
+            "location": "16.5462624, 81.5192148",
+            "hospital": "Krishna Hospital"
+        },
+        {
+            "location": "16.544893, 81.521241",
+            "hospital": "Nallaparaju Venkata Raju Hospital"
+        },
+        {
+            "location": "16.544893, 81.521241",
+            "hospital": "Neeladri Hospital"
+        },
+        {
+            "location": "16.544893, 81.521241",
+            "hospital": "S.V.R. Maternity Hospital"
+        },
+        {
+            "location": "16.5427881, 81.4952414",
+            "hospital": "Siva Srinivasa Ent Hospital"
+        },
+        {
+            "location": "16.5427881, 81.4952414",
+            "hospital": "Sri Krishna Eye Institute"
+        },
+        {
+            "location": "31.716463, 73.3755022",
+            "hospital": "Sri Lakshmi Hospital"
+        },
+        {
+            "location": "16.5514525, 81.5207842",
+            "hospital": "Subhadra Surgical and Maternity Centre"
+        },
+        {
+            "location": "17.1195131, 81.312207",
+            "hospital": "U.V.S.M. Eye Hospital"
+        },
+        {
+            "location": "16.7571731, 81.6799629",
+            "hospital": "Apple Hospital"
+        },
+        {
+            "location": "16.7568008, 81.6827203",
+            "hospital": "Better Vision Clinic"
+        },
+        {
+            "location": "16.755256, 81.6848302",
+            "hospital": "Bhagyasri Hospitals"
+        },
+        {
+            "location": "16.7603084, 81.6788364",
+            "hospital": "Bharathi Nursing Home, Tanuku"
+        },
+        {
+            "location": "16.7571731, 81.6799629",
+            "hospital": "Geeta Hospitals-Tanuku"
+        },
+        {
+            "location": "16.7519865, 81.6889554",
+            "hospital": "Lakshmi Arundhati Nursing Home"
+        },
+        {
+            "location": "16.7571731, 81.6799629",
+            "hospital": "Mullapudi Venkatarayudu Eye Centre"
+        },
+        {
+            "location": "16.7571731, 81.6799629",
+            "hospital": "Sanjeevani Emergency Hospital"
+        },
+        {
+            "location": "16.7571731, 81.6799629",
+            "hospital": "Sreeharsha Ent Hospital"
+        },
+        {
+            "location": "16.7571731, 81.6799629",
+            "hospital": "Sri Balaji Hospital"
+        },
+        {
+            "location": "16.7571731, 81.6799629",
+            "hospital": "Sri Ramakrishna Orthopaedic and Physiotherapy Center"
+        },
+        {
+            "location": "16.7571731, 81.6799629",
+            "hospital": "Sri Ramana Childrens Hospital"
+        },
+        {
+            "location": "16.7519865, 81.6889554",
+            "hospital": "Sri Venkata Ramana Nursing Home"
+        },
+        {
+            "location": "16.7603084, 81.6788364",
+            "hospital": "Srinivasa Mother and Child Care Centre"
+        },
+        {
+            "location": "16.5475595, 81.5396728",
+            "hospital": "St. Mary Hospital"
+        },
+        {
+            "location": "17.0085074, 81.7903215",
+            "hospital": "Suraksha Health Care P Ltd"
+        },
+        {
+            "location": "16.5823155, 81.3783772",
+            "hospital": "Lakshmi Hospital Eye And Maternity Hospital"
+        },
+        {
+            "location": "32.498987, 74.53873",
+            "hospital": "Haritha Hospital"
+        },
+        {
+            "location": "16.5174552, 81.7253415",
+            "hospital": "Krishna Bhavani Hospital"
+        },
+        {
+            "location": "17.2043998, 81.3212031",
+            "hospital": "Tirumala Nursing Home"
+        },
+        {
+            "location": "16.7571731, 81.6799629",
+            "hospital": "Vamsi Superspeciality Hospital"
+        },
+        {
+            "location": "16.4329833, 81.6966198",
+            "hospital": "Aswani Mother and Child Hospital"
+        },
+        {
+            "location": "16.4329833, 81.6966198",
+            "hospital": "Narsapur Christian Hospital"
+        },
+        {
+            "location": "16.4392958, 81.7049146",
+            "hospital": "Sri Sai Paediatric and Neuro Psychiatric Hospital"
+        },
+        {
+            "location": "16.8175166, 81.260143",
+            "hospital": "Our Lady Of Health Hospital"
+        },
+        {
+            "location": "17.122319, 81.2923087",
+            "hospital": "Jibilli Mother and Child Hospital"
+        },
+        {
+            "location": "16.7842316, 81.0471742",
+            "hospital": "Soujanya Hospital"
+        },
+        {
+            "location": "17.0209155, 81.7711827",
+            "hospital": "Centre For Sight, Rajahmundry"
+        },
+        {
+            "location": "17.4249353, 78.4226378",
+            "hospital": "Centre For Sight, Banjara Hills"
+        },
+        {
+            "location": "15.8281257, 78.0372792",
+            "hospital": "Centre For Sight, Kurnool"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "Manipal Super Specialty Hospital"
+        },
+        {
+            "location": "16.5061743, 80.6480153",
+            "hospital": "VIMHANS Hospital"
+        }
+    ]
+}

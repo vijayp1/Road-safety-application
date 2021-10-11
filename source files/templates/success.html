@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>success</title>
+		<style>
+			.dropbtn {
+			  background-color: blue;
+			  color: white;
+			  padding: 16px;
+			  font-size: 16px;
+			  border: none;
+			}
+
+			.dropdown {
+			  position: absolute;
+			  display: inline-block;
+			}
+
+			.dropdown-content {
+			  display: none;
+			  position: absolute;
+			  background-color: #f1f1f1;
+			  min-width: 93px;
+			  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+			  z-index: 1;
+			}
+			.dropdown-content a {
+			  color: black;
+			  padding: 12px 20px;
+			  text-decoration: none;
+			  display: block;
+			}
+
+			.dropdown-content a:hover {background-color: #ddd;}
+			.dropdown:hover .dropdown-content {display: block;}
+			.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+			.tr .dropdown{
+				top:0%;
+			}
+			.ac .dropdown{
+				top:0%;
+				left:6%;
+			}
+			.pr .dropdown{
+				top:0%;
+				left:92%;
+			}
+			.bar{
+				width:1735px;
+				height:90px;
+				background:black;
+				color:#fff;
+				top:0%;
+				left:45%;
+				position:absolute;
+				transform:translate(-50%,-50%);
+				box-sizing:border-box;
+				padding:70px 30px ;
+			}
+
+		</style>
+	</head>
+	<body>
+	<img src="../static/success.png" ></img>
+	<div class="bar"></div>
+	{% if logtype!='doctor' %}
+		<div class="tr">
+			<div class="dropdown">
+				<button class="dropbtn">Traffic</button>
+				<div class="dropdown-content">
+					{%if logtype=='normal'%}
+						<a href="{{url_for('reporttr')}}">Reports</a>
+						<a href="{{url_for('viewtr')}}">view reports</a>
+					{% endif %}
+					{% if logtype == 'police' %}
+						<a href="{{url_for('edittr')}}">view reports</a>
+					{% endif %}
+				</div>
+			</div>
+		</div>
+	{% endif %}
+		<br></br>
+	{% if logtype!='police' %}
+		<div class="ac">
+			<div class="dropdown">
+				<button class="dropbtn">Accident</button>
+				<div class="dropdown-content">
+					{% if logtype=='normal' %}
+						<a href="{{url_for('reportac')}}">Report</a>
+					{% endif %}
+					{% if logtype=='doctor' %}
+						<a href="{{url_for('viewac')}}">view accidents</a>
+					{%endif%}
+				</div>
+			</div>
+		</div>
+	{% endif %}
+		<div class="pr">
+			<div class="dropdown">
+				<button class="dropbtn">profile</button>
+				<div class="dropdown-content">
+					<a href="{{url_for('home')}}">Home page</a>
+					<a href="{{url_for('settings')}}">Settings</a>
+					<a href="{{url_for('signout')}}">Sign out</a>
+				</div>
+			</div>
+		</div>
+		{%if msg=="closed"%}
+			<script type="text/javascript" language="JavaScript">alert("case closed successfully!")</script>
+		{%endif%}
+	</body>
+</html>

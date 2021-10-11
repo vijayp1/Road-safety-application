@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head><title>Sign up</title>
+</head>
+<style>
+		
+	body{
+		margin:0;
+		padding:0;
+		font-family:sans-serif;
+	}
+	.bgi{
+		margin:0;
+		padding:0;
+		background:url(backgroundimg.jpg);
+		filter:blur(50px);
+		width:100%;
+		height:100%;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: 300px 100px;
+	}
+
+	.box{
+		width:350px;
+		height:550px;
+		background:#000;
+		color:#fff;
+		top:50%;
+		left:20%;
+		position:absolute;
+		transform:translate(-50%,-50%);
+		box-sizing:border-box;
+		padding:70px 30px ;
+	}
+	.box p{
+		margin:0;
+		padding:0;
+		font-weight:bold;
+	}
+	.box input{
+		width:100%;
+		margin-bottom:20px;
+		font-size:16px;
+	}
+</style>
+<body>
+		<img style="width:100%;height:720px" src="{{url_for('static', filename='backgroundimg.jpg')}}" class="bgi"/>
+		<div class="box">
+			<h1>Register Here</h1>
+			<form action = "/register" method = "POST">
+				<p>Username</p>
+				<input type="text" id="usrid" name="usrid" placeholder="Enter username"><br>
+				<p>Name</p>
+				<input type="text" id="name" name="name" placeholder="Name">
+				<p>Password</p>
+				<input type="password" id="pass" name="pass" placeholder="Enter Password">
+				<p>Phone Number</p>
+				<input type="number" id="phno" name="phno" placeholder="Enter phone number">
+				<p>Email</p>
+				<input type="text" id="email" name="email" placeholder="Enter email">
+				<p>User Type</p>
+				<select name="typeu" id="typeu">
+				  <option value="police">Police</option>
+				  <option value="doctor">Doctor</option>
+				  <option value="normal">Normal</option>
+				</select>
+	
+				<input  type="submit"></input><br>
+			</form>
+		</div>
+		{%if msg=="incomplete"%}
+			<script type="text/javascript" language="JavaScript">alert("Fill the required fields!")</script>
+		{% endif %}
+		{%if msg=="exist"%}
+			<script type="text/javascript" language="JavaScript">alert("one of the fields is matched with other USER!")</script>
+		{% endif %}
+		{%if msg=="emailformat"%}
+			<script type="text/javascript" language="JavaScript">alert("email should end with @gmail.com")</script>
+		{% endif %}
+		{%if msg=="phoneformat"%}
+			<script type="text/javascript" language="JavaScript">alert("phone number should be 10 digits")</script>
+		{% endif %}
+
+</body>
+</html>
